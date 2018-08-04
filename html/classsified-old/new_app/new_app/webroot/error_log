@@ -1,0 +1,660 @@
+[18-Jun-2017 14:27:47 EST] PHP Fatal error:  Call to a member function find() on boolean in /home/kseducat/public_html/src/Controller/Admin/NewsController.php on line 147
+[18-Jun-2017 14:28:08 EST] PHP Fatal error:  Call to a member function find() on boolean in /home/kseducat/public_html/src/Controller/Admin/NewsController.php on line 147
+[18-Jun-2017 14:36:58 EST] PHP Fatal error:  Call to a member function find() on boolean in /home/kseducat/public_html/src/Controller/Admin/ProductsController.php on line 79
+[18-Jun-2017 14:37:01 EST] PHP Fatal error:  Call to a member function find() on boolean in /home/kseducat/public_html/src/Controller/Admin/ProductsController.php on line 79
+[18-Jun-2017 14:37:03 EST] PHP Fatal error:  Call to a member function find() on boolean in /home/kseducat/public_html/src/Controller/Admin/ProductsController.php on line 79
+[18-Jun-2017 14:37:03 EST] PHP Fatal error:  Call to a member function find() on boolean in /home/kseducat/public_html/src/Controller/Admin/ProductsController.php on line 79
+[18-Jun-2017 15:35:57 EST] PHP Fatal error:  Class 'Configure' not found in /home/kseducat/public_html/src/Template/Element/header.ctp on line 77
+[18-Jun-2017 15:36:00 EST] PHP Fatal error:  Class 'Configure' not found in /home/kseducat/public_html/src/Template/Element/header.ctp on line 77
+[19-Jun-2017 13:45:18 EST] PHP Fatal error:  Cannot redeclare App\Controller\PagesController::view() in /home/kseducat/public_html/src/Controller/PagesController.php on line 196
+[19-Jun-2017 13:46:00 EST] PHP Fatal error:  Cannot redeclare App\Controller\PagesController::view() in /home/kseducat/public_html/src/Controller/PagesController.php on line 199
+[19-Jun-2017 13:46:02 EST] PHP Fatal error:  Cannot redeclare App\Controller\PagesController::view() in /home/kseducat/public_html/src/Controller/PagesController.php on line 199
+[19-Jun-2017 13:46:44 EST] PHP Fatal error:  Cannot redeclare App\Controller\PagesController::view() in /home/kseducat/public_html/src/Controller/PagesController.php on line 199
+[19-Jun-2017 13:55:47 EST] PHP Fatal error:  Cannot redeclare class Cake\Controller\Component\AuthComponent in /home/kseducat/public_html/src/Controller/Component/AuthComponent.php on line 38
+[19-Jun-2017 13:55:51 EST] PHP Fatal error:  Cannot redeclare class Cake\Controller\Component\AuthComponent in /home/kseducat/public_html/src/Controller/Component/AuthComponent.php on line 38
+[19-Jun-2017 13:56:38 EST] PHP Fatal error:  Cannot redeclare class Cake\Controller\Component\AuthComponent in /home/kseducat/public_html/src/Controller/Component/AuthComponent.php on line 38
+[19-Jun-2017 13:56:52 EST] PHP Fatal error:  Cannot redeclare class Cake\Controller\Component\AuthComponent in /home/kseducat/public_html/src/Controller/Component/AuthComponent.php on line 38
+[19-Jun-2017 13:57:33 EST] PHP Fatal error:  Cannot redeclare class Cake\Controller\Component\AuthComponent in /home/kseducat/public_html/src/Controller/Component/AuthComponent.php on line 38
+[19-Jun-2017 13:57:33 EST] PHP Fatal error:  Cannot redeclare class Cake\Controller\Component\AuthComponent in /home/kseducat/public_html/src/Controller/Component/AuthComponent.php on line 38
+[19-Jun-2017 14:02:08 EST] PHP Fatal error:  Cannot redeclare class Cake\Controller\Component\AuthComponent in /home/kseducat/public_html/src/Controller/Component/AuthComponent.php on line 38
+[19-Jun-2017 14:02:42 EST] PHP Fatal error:  Cannot redeclare class Cake\Controller\Component\AuthComponent in /home/kseducat/public_html/src/Controller/Component/AuthComponent.php on line 38
+[19-Jun-2017 14:02:42 EST] PHP Fatal error:  Cannot redeclare class Cake\Controller\Component\AuthComponent in /home/kseducat/public_html/src/Controller/Component/AuthComponent.php on line 38
+[19-Jun-2017 14:09:02 EST] PHP Fatal error:  Cannot redeclare class Cake\Controller\Component\AuthComponent in /home/kseducat/public_html/src/Controller/Component/AuthComponent.php on line 38
+[19-Jun-2017 14:09:02 EST] PHP Fatal error:  Cannot redeclare class Cake\Controller\Component\AuthComponent in /home/kseducat/public_html/src/Controller/Component/AuthComponent.php on line 38
+[19-Jun-2017 14:09:30 EST] PHP Fatal error:  Cannot redeclare class Cake\Controller\Component\AuthComponent in /home/kseducat/public_html/src/Controller/Component/AuthComponent.php on line 38
+[19-Jun-2017 14:09:30 EST] PHP Fatal error:  Cannot redeclare class Cake\Controller\Component\AuthComponent in /home/kseducat/public_html/src/Controller/Component/AuthComponent.php on line 38
+[19-Jun-2017 14:11:03 EST] PHP Fatal error:  Cannot redeclare class Cake\Controller\Component\AuthComponent in /home/kseducat/public_html/src/Controller/Component/AuthComponent.php on line 38
+[19-Jun-2017 14:11:08 EST] PHP Fatal error:  Cannot redeclare class Cake\Controller\Component\AuthComponent in /home/kseducat/public_html/src/Controller/Component/AuthComponent.php on line 38
+[19-Jun-2017 14:12:10 EST] PHP Fatal error:  Cannot redeclare class Cake\Controller\Component\AuthComponent in /home/kseducat/public_html/src/Controller/Component/AuthComponent.php on line 38
+[19-Jun-2017 14:12:10 EST] PHP Fatal error:  Cannot redeclare class Cake\Controller\Component\AuthComponent in /home/kseducat/public_html/src/Controller/Component/AuthComponent.php on line 38
+[19-Jun-2017 14:12:54 EST] PHP Fatal error:  Class 'Configure' not found in /home/kseducat/public_html/src/Template/Pages/view.ctp on line 10
+[19-Jun-2017 14:12:57 EST] PHP Fatal error:  Class 'Configure' not found in /home/kseducat/public_html/src/Template/Pages/view.ctp on line 10
+[19-Jun-2017 14:13:00 EST] PHP Fatal error:  Class 'Configure' not found in /home/kseducat/public_html/src/Template/Pages/view.ctp on line 10
+[19-Jun-2017 14:13:26 EST] PHP Fatal error:  Cannot redeclare class Cake\Controller\Component\AuthComponent in /home/kseducat/public_html/src/Controller/Component/AuthComponent.php on line 38
+[19-Jun-2017 14:13:26 EST] PHP Fatal error:  Cannot redeclare class Cake\Controller\Component\AuthComponent in /home/kseducat/public_html/src/Controller/Component/AuthComponent.php on line 38
+[19-Jun-2017 14:15:58 EST] PHP Fatal error:  Cannot redeclare class Cake\Controller\Component\AuthComponent in /home/kseducat/public_html/src/Controller/Component/AuthComponent.php on line 38
+[19-Jun-2017 14:15:58 EST] PHP Fatal error:  Cannot redeclare class Cake\Controller\Component\AuthComponent in /home/kseducat/public_html/src/Controller/Component/AuthComponent.php on line 38
+[19-Jun-2017 14:17:49 EST] PHP Fatal error:  Class 'Configure' not found in /home/kseducat/public_html/src/Template/Element/footer.ctp on line 1
+[19-Jun-2017 14:18:23 EST] PHP Fatal error:  Cannot redeclare class Cake\Controller\Component\AuthComponent in /home/kseducat/public_html/src/Controller/Component/AuthComponent.php on line 38
+[19-Jun-2017 14:18:23 EST] PHP Fatal error:  Cannot redeclare class Cake\Controller\Component\AuthComponent in /home/kseducat/public_html/src/Controller/Component/AuthComponent.php on line 38
+[19-Jun-2017 14:19:19 EST] PHP Fatal error:  Cannot redeclare class Cake\Controller\Component\AuthComponent in /home/kseducat/public_html/src/Controller/Component/AuthComponent.php on line 38
+[19-Jun-2017 14:19:19 EST] PHP Fatal error:  Cannot redeclare class Cake\Controller\Component\AuthComponent in /home/kseducat/public_html/src/Controller/Component/AuthComponent.php on line 38
+[19-Jun-2017 14:23:36 EST] PHP Fatal error:  Cannot redeclare class Cake\Controller\Component\AuthComponent in /home/kseducat/public_html/src/Controller/Component/AuthComponent.php on line 38
+[19-Jun-2017 14:23:36 EST] PHP Fatal error:  Cannot redeclare class Cake\Controller\Component\AuthComponent in /home/kseducat/public_html/src/Controller/Component/AuthComponent.php on line 38
+[19-Jun-2017 14:23:51 EST] PHP Fatal error:  Cannot redeclare class Cake\Controller\Component\AuthComponent in /home/kseducat/public_html/src/Controller/Component/AuthComponent.php on line 38
+[19-Jun-2017 14:23:51 EST] PHP Fatal error:  Cannot redeclare class Cake\Controller\Component\AuthComponent in /home/kseducat/public_html/src/Controller/Component/AuthComponent.php on line 38
+[19-Jun-2017 14:24:53 EST] PHP Fatal error:  Cannot redeclare class Cake\Controller\Component\AuthComponent in /home/kseducat/public_html/src/Controller/Component/AuthComponent.php on line 38
+[19-Jun-2017 14:24:53 EST] PHP Fatal error:  Cannot redeclare class Cake\Controller\Component\AuthComponent in /home/kseducat/public_html/src/Controller/Component/AuthComponent.php on line 38
+[20-Jun-2017 12:26:49 EST] PHP Fatal error:  Cannot redeclare class Cake\Controller\Component\AuthComponent in /home/kseducat/public_html/src/Controller/Component/AuthComponent.php on line 38
+[20-Jun-2017 12:26:49 EST] PHP Fatal error:  Cannot redeclare class Cake\Controller\Component\AuthComponent in /home/kseducat/public_html/src/Controller/Component/AuthComponent.php on line 38
+[20-Jun-2017 12:27:49 EST] PHP Fatal error:  Cannot redeclare class Cake\Controller\Component\AuthComponent in /home/kseducat/public_html/src/Controller/Component/AuthComponent.php on line 38
+[20-Jun-2017 12:27:49 EST] PHP Fatal error:  Cannot redeclare class Cake\Controller\Component\AuthComponent in /home/kseducat/public_html/src/Controller/Component/AuthComponent.php on line 38
+[20-Jun-2017 12:50:35 EST] PHP Fatal error:  Class 'Configure' not found in /home/kseducat/public_html/src/Template/Products/index.ctp on line 39
+[20-Jun-2017 12:50:43 EST] PHP Fatal error:  Class 'Configure' not found in /home/kseducat/public_html/src/Template/Products/index.ctp on line 39
+[20-Jun-2017 13:15:56 EST] PHP Fatal error:  Call to undefined method App\Controller\UsersController::instagramUrl() in /home/kseducat/public_html/src/Controller/UsersController.php on line 116
+[20-Jun-2017 13:16:00 EST] PHP Fatal error:  Call to undefined method App\Controller\UsersController::instagramUrl() in /home/kseducat/public_html/src/Controller/UsersController.php on line 116
+[20-Jun-2017 13:51:23 EST] PHP Fatal error:  Call to undefined method App\Controller\UsersController::loginandlogout() in /home/kseducat/public_html/src/Controller/UsersController.php on line 97
+[20-Jun-2017 14:15:34 EST] PHP Fatal error:  Call to undefined method App\Controller\PagesController::sendmail() in /home/kseducat/public_html/src/Controller/PagesController.php on line 121
+[20-Jun-2017 14:22:08 EST] PHP Parse error:  syntax error, unexpected '=' in /home/kseducat/public_html/src/Controller/PagesController.php on line 111
+[20-Jun-2017 14:22:12 EST] PHP Parse error:  syntax error, unexpected '=' in /home/kseducat/public_html/src/Controller/PagesController.php on line 111
+[20-Jun-2017 14:22:15 EST] PHP Parse error:  syntax error, unexpected '=' in /home/kseducat/public_html/src/Controller/PagesController.php on line 111
+[20-Jun-2017 14:22:33 EST] PHP Parse error:  syntax error, unexpected '=' in /home/kseducat/public_html/src/Controller/PagesController.php on line 111
+[20-Jun-2017 14:22:36 EST] PHP Parse error:  syntax error, unexpected '=' in /home/kseducat/public_html/src/Controller/PagesController.php on line 111
+[20-Jun-2017 14:58:13 EST] PHP Fatal error:  Cannot redeclare class Cake\Controller\Component\AuthComponent in /home/kseducat/public_html/src/Controller/Component/AuthComponent.php on line 38
+[20-Jun-2017 14:58:13 EST] PHP Fatal error:  Cannot redeclare class Cake\Controller\Component\AuthComponent in /home/kseducat/public_html/src/Controller/Component/AuthComponent.php on line 38
+[21-Jun-2017 14:34:52 EST] PHP Parse error:  syntax error, unexpected ')' in /home/kseducat/public_html/src/Controller/Admin/ProductsController.php on line 46
+[21-Jun-2017 14:34:54 EST] PHP Parse error:  syntax error, unexpected ')' in /home/kseducat/public_html/src/Controller/Admin/ProductsController.php on line 46
+[21-Jun-2017 14:34:54 EST] PHP Parse error:  syntax error, unexpected ')' in /home/kseducat/public_html/src/Controller/Admin/ProductsController.php on line 46
+[22-Jun-2017 14:09:12 EST] PHP Fatal error:  Cannot redeclare class Cake\Controller\Component\AuthComponent in /home/kseducat/public_html/src/Controller/Component/AuthComponent.php on line 38
+[22-Jun-2017 14:09:12 EST] PHP Fatal error:  Cannot redeclare class Cake\Controller\Component\AuthComponent in /home/kseducat/public_html/src/Controller/Component/AuthComponent.php on line 38
+[24-Jun-2017 09:19:18 EST] PHP Fatal error:  Cannot redeclare class Cake\Controller\Component\AuthComponent in /home/kseducat/public_html/src/Controller/Component/AuthComponent.php on line 38
+[24-Jun-2017 09:19:18 EST] PHP Fatal error:  Cannot redeclare class Cake\Controller\Component\AuthComponent in /home/kseducat/public_html/src/Controller/Component/AuthComponent.php on line 38
+[27-Jun-2017 12:53:20 EST] PHP Fatal error:  Class 'Configure' not found in /home/kseducat/public_html/src/Template/Users/register.ctp on line 176
+[27-Jun-2017 12:53:24 EST] PHP Fatal error:  Class 'Configure' not found in /home/kseducat/public_html/src/Template/Users/register.ctp on line 176
+[27-Jun-2017 13:25:32 EST] PHP Parse error:  syntax error, unexpected ']' in /home/kseducat/public_html/src/Model/Table/ProductsTable.php on line 98
+[27-Jun-2017 13:25:35 EST] PHP Parse error:  syntax error, unexpected ']' in /home/kseducat/public_html/src/Model/Table/ProductsTable.php on line 98
+[27-Jun-2017 13:25:37 EST] PHP Parse error:  syntax error, unexpected ']' in /home/kseducat/public_html/src/Model/Table/ProductsTable.php on line 98
+[27-Jun-2017 13:52:53 EST] PHP Parse error:  syntax error, unexpected '}', expecting ']' in /home/kseducat/public_html/src/Controller/ProductsController.php on line 103
+[27-Jun-2017 21:25:03 EST] PHP Parse error:  syntax error, unexpected '}', expecting ']' in /home/kseducat/public_html/src/Controller/ProductsController.php on line 103
+[27-Jun-2017 21:25:09 EST] PHP Parse error:  syntax error, unexpected '}', expecting ']' in /home/kseducat/public_html/src/Controller/ProductsController.php on line 103
+[27-Jun-2017 21:25:11 EST] PHP Parse error:  syntax error, unexpected '}', expecting ']' in /home/kseducat/public_html/src/Controller/ProductsController.php on line 103
+[27-Jun-2017 21:26:13 EST] PHP Parse error:  syntax error, unexpected '}', expecting ']' in /home/kseducat/public_html/src/Controller/ProductsController.php on line 103
+[27-Jun-2017 21:52:14 EST] PHP Parse error:  syntax error, unexpected ')' in /home/kseducat/public_html/src/Template/Layout/innerPage.ctp on line 184
+[27-Jun-2017 21:52:15 EST] PHP Parse error:  syntax error, unexpected ')' in /home/kseducat/public_html/src/Template/Layout/innerPage.ctp on line 184
+[27-Jun-2017 21:52:17 EST] PHP Parse error:  syntax error, unexpected ')' in /home/kseducat/public_html/src/Template/Layout/innerPage.ctp on line 184
+[27-Jun-2017 21:52:17 EST] PHP Parse error:  syntax error, unexpected ')' in /home/kseducat/public_html/src/Template/Layout/innerPage.ctp on line 184
+[27-Jun-2017 21:52:20 EST] PHP Parse error:  syntax error, unexpected ')' in /home/kseducat/public_html/src/Template/Layout/innerPage.ctp on line 184
+[27-Jun-2017 21:52:20 EST] PHP Parse error:  syntax error, unexpected ')' in /home/kseducat/public_html/src/Template/Layout/innerPage.ctp on line 184
+[27-Jun-2017 21:52:23 EST] PHP Parse error:  syntax error, unexpected ')' in /home/kseducat/public_html/src/Template/Layout/innerPage.ctp on line 184
+[27-Jun-2017 21:52:23 EST] PHP Parse error:  syntax error, unexpected ')' in /home/kseducat/public_html/src/Template/Layout/innerPage.ctp on line 184
+[27-Jun-2017 21:52:23 EST] PHP Parse error:  syntax error, unexpected ')' in /home/kseducat/public_html/src/Template/Layout/innerPage.ctp on line 184
+[27-Jun-2017 21:52:23 EST] PHP Parse error:  syntax error, unexpected ')' in /home/kseducat/public_html/src/Template/Layout/innerPage.ctp on line 184
+[27-Jun-2017 21:52:24 EST] PHP Parse error:  syntax error, unexpected ')' in /home/kseducat/public_html/src/Template/Layout/innerPage.ctp on line 184
+[27-Jun-2017 21:52:24 EST] PHP Parse error:  syntax error, unexpected ')' in /home/kseducat/public_html/src/Template/Layout/innerPage.ctp on line 184
+[27-Jun-2017 21:52:26 EST] PHP Parse error:  syntax error, unexpected ')' in /home/kseducat/public_html/src/Template/Layout/innerPage.ctp on line 184
+[27-Jun-2017 21:52:26 EST] PHP Parse error:  syntax error, unexpected ')' in /home/kseducat/public_html/src/Template/Layout/innerPage.ctp on line 184
+[27-Jun-2017 21:52:26 EST] PHP Parse error:  syntax error, unexpected ')' in /home/kseducat/public_html/src/Template/Layout/innerPage.ctp on line 184
+[27-Jun-2017 21:52:26 EST] PHP Parse error:  syntax error, unexpected ')' in /home/kseducat/public_html/src/Template/Layout/innerPage.ctp on line 184
+[27-Jun-2017 21:52:27 EST] PHP Parse error:  syntax error, unexpected ')' in /home/kseducat/public_html/src/Template/Layout/innerPage.ctp on line 184
+[27-Jun-2017 21:52:27 EST] PHP Parse error:  syntax error, unexpected ')' in /home/kseducat/public_html/src/Template/Layout/innerPage.ctp on line 184
+[27-Jun-2017 21:52:27 EST] PHP Parse error:  syntax error, unexpected ')' in /home/kseducat/public_html/src/Template/Layout/innerPage.ctp on line 184
+[27-Jun-2017 21:52:27 EST] PHP Parse error:  syntax error, unexpected ')' in /home/kseducat/public_html/src/Template/Layout/innerPage.ctp on line 184
+[27-Jun-2017 21:52:27 EST] PHP Parse error:  syntax error, unexpected ')' in /home/kseducat/public_html/src/Template/Layout/innerPage.ctp on line 184
+[27-Jun-2017 21:52:28 EST] PHP Parse error:  syntax error, unexpected ')' in /home/kseducat/public_html/src/Template/Layout/innerPage.ctp on line 184
+[27-Jun-2017 21:52:34 EST] PHP Parse error:  syntax error, unexpected ')' in /home/kseducat/public_html/src/Template/Layout/innerPage.ctp on line 184
+[27-Jun-2017 21:52:34 EST] PHP Parse error:  syntax error, unexpected ')' in /home/kseducat/public_html/src/Template/Layout/innerPage.ctp on line 184
+[27-Jun-2017 21:52:35 EST] PHP Parse error:  syntax error, unexpected ')' in /home/kseducat/public_html/src/Template/Layout/innerPage.ctp on line 184
+[27-Jun-2017 21:52:35 EST] PHP Parse error:  syntax error, unexpected ')' in /home/kseducat/public_html/src/Template/Layout/innerPage.ctp on line 184
+[27-Jun-2017 21:52:39 EST] PHP Parse error:  syntax error, unexpected ')' in /home/kseducat/public_html/src/Template/Layout/innerPage.ctp on line 184
+[27-Jun-2017 21:52:39 EST] PHP Parse error:  syntax error, unexpected ')' in /home/kseducat/public_html/src/Template/Layout/innerPage.ctp on line 184
+[27-Jun-2017 21:52:40 EST] PHP Parse error:  syntax error, unexpected ')' in /home/kseducat/public_html/src/Template/Layout/innerPage.ctp on line 184
+[27-Jun-2017 21:52:40 EST] PHP Parse error:  syntax error, unexpected ')' in /home/kseducat/public_html/src/Template/Layout/innerPage.ctp on line 184
+[27-Jun-2017 21:52:40 EST] PHP Parse error:  syntax error, unexpected ')' in /home/kseducat/public_html/src/Template/Layout/innerPage.ctp on line 184
+[27-Jun-2017 21:52:40 EST] PHP Parse error:  syntax error, unexpected ')' in /home/kseducat/public_html/src/Template/Layout/innerPage.ctp on line 184
+[27-Jun-2017 21:52:52 EST] PHP Parse error:  syntax error, unexpected ')' in /home/kseducat/public_html/src/Template/Layout/innerPage.ctp on line 184
+[27-Jun-2017 21:53:02 EST] PHP Parse error:  syntax error, unexpected ')' in /home/kseducat/public_html/src/Template/Layout/innerPage.ctp on line 184
+[27-Jun-2017 21:53:02 EST] PHP Parse error:  syntax error, unexpected ')' in /home/kseducat/public_html/src/Template/Layout/innerPage.ctp on line 184
+[27-Jun-2017 21:53:08 EST] PHP Parse error:  syntax error, unexpected ')' in /home/kseducat/public_html/src/Template/Layout/innerPage.ctp on line 184
+[27-Jun-2017 21:53:32 EST] PHP Parse error:  syntax error, unexpected ')' in /home/kseducat/public_html/src/Template/Layout/innerPage.ctp on line 184
+[28-Jun-2017 11:17:27 EST] PHP Fatal error:  Class 'App\Controller\Admin\Configure' not found in /home/kseducat/public_html/src/Controller/Admin/GlobalParametersController.php on line 47
+[28-Jun-2017 11:17:30 EST] PHP Fatal error:  Class 'App\Controller\Admin\Configure' not found in /home/kseducat/public_html/src/Controller/Admin/GlobalParametersController.php on line 47
+[28-Jun-2017 11:17:31 EST] PHP Fatal error:  Class 'App\Controller\Admin\Configure' not found in /home/kseducat/public_html/src/Controller/Admin/GlobalParametersController.php on line 47
+[28-Jun-2017 11:17:32 EST] PHP Fatal error:  Class 'App\Controller\Admin\Configure' not found in /home/kseducat/public_html/src/Controller/Admin/GlobalParametersController.php on line 47
+[28-Jun-2017 11:17:33 EST] PHP Fatal error:  Class 'App\Controller\Admin\Configure' not found in /home/kseducat/public_html/src/Controller/Admin/GlobalParametersController.php on line 47
+[28-Jun-2017 11:44:03 EST] PHP Fatal error:  Call to a member function find() on boolean in /home/kseducat/public_html/src/Controller/UsersController.php on line 158
+[28-Jun-2017 11:44:23 EST] PHP Fatal error:  Call to a member function find() on boolean in /home/kseducat/public_html/src/Controller/UsersController.php on line 158
+[28-Jun-2017 11:44:24 EST] PHP Fatal error:  Call to a member function find() on boolean in /home/kseducat/public_html/src/Controller/UsersController.php on line 158
+[28-Jun-2017 11:44:24 EST] PHP Fatal error:  Call to a member function find() on boolean in /home/kseducat/public_html/src/Controller/UsersController.php on line 158
+[28-Jun-2017 11:44:24 EST] PHP Fatal error:  Call to a member function find() on boolean in /home/kseducat/public_html/src/Controller/UsersController.php on line 158
+[28-Jun-2017 11:44:25 EST] PHP Fatal error:  Call to a member function find() on boolean in /home/kseducat/public_html/src/Controller/UsersController.php on line 158
+[28-Jun-2017 11:44:26 EST] PHP Fatal error:  Call to a member function find() on boolean in /home/kseducat/public_html/src/Controller/UsersController.php on line 158
+[28-Jun-2017 11:44:26 EST] PHP Fatal error:  Call to a member function find() on boolean in /home/kseducat/public_html/src/Controller/UsersController.php on line 158
+[28-Jun-2017 11:51:45 EST] PHP Parse error:  syntax error, unexpected '-', expecting '(' in /home/kseducat/public_html/src/Controller/UsersController.php on line 157
+[28-Jun-2017 11:52:55 EST] PHP Parse error:  syntax error, unexpected '-', expecting '(' in /home/kseducat/public_html/src/Controller/UsersController.php on line 157
+[28-Jun-2017 12:33:53 EST] PHP Parse error:  syntax error, unexpected '-', expecting '(' in /home/kseducat/public_html/src/Controller/UsersController.php on line 157
+[28-Jun-2017 12:34:00 EST] PHP Parse error:  syntax error, unexpected '-', expecting '(' in /home/kseducat/public_html/src/Controller/UsersController.php on line 157
+[28-Jun-2017 12:34:21 EST] PHP Parse error:  syntax error, unexpected '-', expecting '(' in /home/kseducat/public_html/src/Controller/UsersController.php on line 157
+[28-Jun-2017 13:05:27 EST] PHP Fatal error:  Call to a member function find() on boolean in /home/kseducat/public_html/src/Controller/PagesController.php on line 116
+[28-Jun-2017 13:34:34 EST] PHP Fatal error:  Call to undefined function shorttime() in /home/kseducat/public_html/src/Template/Pages/news.ctp on line 57
+[28-Jun-2017 13:34:35 EST] PHP Fatal error:  Call to undefined function shorttime() in /home/kseducat/public_html/src/Template/Pages/news.ctp on line 57
+[28-Jun-2017 13:43:26 EST] PHP Parse error:  syntax error, unexpected 's0' (T_STRING) in /home/kseducat/public_html/src/Template/Pages/news.ctp on line 72
+[28-Jun-2017 13:44:36 EST] PHP Parse error:  syntax error, unexpected 's0' (T_STRING) in /home/kseducat/public_html/src/Template/Pages/news.ctp on line 72
+[28-Jun-2017 13:45:01 EST] PHP Parse error:  syntax error, unexpected 's0' (T_STRING) in /home/kseducat/public_html/src/Template/Pages/news.ctp on line 72
+[28-Jun-2017 13:45:02 EST] PHP Parse error:  syntax error, unexpected 's0' (T_STRING) in /home/kseducat/public_html/src/Template/Pages/news.ctp on line 72
+[28-Jun-2017 13:45:18 EST] PHP Parse error:  syntax error, unexpected 's0' (T_STRING) in /home/kseducat/public_html/src/Template/Pages/news.ctp on line 72
+[28-Jun-2017 14:02:12 EST] PHP Fatal error:  Class 'Configure' not found in /home/kseducat/public_html/src/Template/Element/sidebarnews.ctp on line 18
+[28-Jun-2017 14:02:15 EST] PHP Fatal error:  Class 'Configure' not found in /home/kseducat/public_html/src/Template/Element/sidebarnews.ctp on line 18
+[28-Jun-2017 14:02:38 EST] PHP Fatal error:  Class 'Configure' not found in /home/kseducat/public_html/src/Template/Element/sidebarnews.ctp on line 18
+[28-Jun-2017 14:02:57 EST] PHP Fatal error:  Class 'Configure' not found in /home/kseducat/public_html/src/Template/Element/sidebarnews.ctp on line 18
+[28-Jun-2017 14:05:48 EST] PHP Fatal error:  Class 'Configure' not found in /home/kseducat/public_html/src/Template/Element/sidebarnews.ctp on line 28
+[28-Jun-2017 14:05:52 EST] PHP Fatal error:  Class 'Configure' not found in /home/kseducat/public_html/src/Template/Element/sidebarnews.ctp on line 28
+[28-Jun-2017 14:06:36 EST] PHP Fatal error:  Class 'Configure' not found in /home/kseducat/public_html/src/Template/Element/sidebarnews.ctp on line 28
+[28-Jun-2017 14:41:58 EST] PHP Parse error:  syntax error, unexpected end of file in /home/kseducat/public_html/src/Template/News/index.ctp on line 63
+[28-Jun-2017 14:42:00 EST] PHP Parse error:  syntax error, unexpected end of file in /home/kseducat/public_html/src/Template/News/index.ctp on line 63
+[28-Jun-2017 14:42:03 EST] PHP Parse error:  syntax error, unexpected end of file in /home/kseducat/public_html/src/Template/News/index.ctp on line 63
+[29-Jun-2017 10:17:32 EST] PHP Fatal error:  Cannot redeclare class Cake\Controller\Component\AuthComponent in /home/kseducat/public_html/src/Controller/Component/AuthComponent.php on line 38
+[29-Jun-2017 10:17:32 EST] PHP Fatal error:  Cannot redeclare class Cake\Controller\Component\AuthComponent in /home/kseducat/public_html/src/Controller/Component/AuthComponent.php on line 38
+[29-Jun-2017 15:53:22 EST] PHP Parse error:  syntax error, unexpected '}' in /home/kseducat/public_html/src/Controller/UsersController.php on line 334
+[29-Jun-2017 15:53:27 EST] PHP Parse error:  syntax error, unexpected '}' in /home/kseducat/public_html/src/Controller/UsersController.php on line 334
+[29-Jun-2017 15:53:30 EST] PHP Parse error:  syntax error, unexpected '}' in /home/kseducat/public_html/src/Controller/UsersController.php on line 334
+[29-Jun-2017 15:53:32 EST] PHP Parse error:  syntax error, unexpected '}' in /home/kseducat/public_html/src/Controller/UsersController.php on line 334
+[29-Jun-2017 15:54:23 EST] PHP Parse error:  syntax error, unexpected '}' in /home/kseducat/public_html/src/Controller/UsersController.php on line 290
+[29-Jun-2017 15:54:26 EST] PHP Parse error:  syntax error, unexpected '}' in /home/kseducat/public_html/src/Controller/UsersController.php on line 290
+[29-Jun-2017 15:55:09 EST] PHP Parse error:  syntax error, unexpected '}' in /home/kseducat/public_html/src/Controller/UsersController.php on line 290
+[29-Jun-2017 15:55:12 EST] PHP Parse error:  syntax error, unexpected '}' in /home/kseducat/public_html/src/Controller/UsersController.php on line 290
+[29-Jun-2017 15:55:40 EST] PHP Parse error:  syntax error, unexpected '}' in /home/kseducat/public_html/src/Controller/UsersController.php on line 290
+[29-Jun-2017 16:33:49 EST] PHP Fatal error:  Call to a member function find() on boolean in /home/kseducat/public_html/src/Controller/UsersController.php on line 106
+[29-Jun-2017 16:33:50 EST] PHP Fatal error:  Call to a member function find() on boolean in /home/kseducat/public_html/src/Controller/UsersController.php on line 106
+[29-Jun-2017 16:48:00 EST] PHP Fatal error:  Cannot redeclare class Cake\Controller\Component\AuthComponent in /home/kseducat/public_html/src/Controller/Component/AuthComponent.php on line 38
+[29-Jun-2017 16:48:00 EST] PHP Fatal error:  Cannot redeclare class Cake\Controller\Component\AuthComponent in /home/kseducat/public_html/src/Controller/Component/AuthComponent.php on line 38
+[01-Jul-2017 06:58:00 EST] PHP Parse error:  syntax error, unexpected end of file in /home/kseducat/public_html/src/Controller/UsersController.php on line 654
+[01-Jul-2017 07:05:20 EST] PHP Fatal error:  Call to a member function isNew() on null in /home/kseducat/public_html/vendor/cakephp/cakephp/src/ORM/Marshaller.php on line 448
+[06-Jul-2017 13:18:20 EST] PHP Parse error:  syntax error, unexpected '.' in /home/kseducat/public_html/src/Controller/AppController.php on line 147
+[06-Jul-2017 13:32:43 EST] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/kseducat/public_html/src/Controller/PagesController.php on line 138
+[06-Jul-2017 13:32:45 EST] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/kseducat/public_html/src/Controller/PagesController.php on line 138
+[06-Jul-2017 13:39:35 EST] PHP Fatal error:  Call to a member function newEntity() on boolean in /home/kseducat/public_html/src/Controller/PagesController.php on line 142
+[06-Jul-2017 13:50:31 EST] PHP Fatal error:  Call to a member function save() on boolean in /home/kseducat/public_html/src/Controller/PagesController.php on line 150
+[06-Jul-2017 13:51:18 EST] PHP Fatal error:  Call to a member function save() on boolean in /home/kseducat/public_html/src/Controller/PagesController.php on line 150
+[06-Jul-2017 13:54:14 EST] PHP Fatal error:  Call to a member function save() on boolean in /home/kseducat/public_html/src/Controller/PagesController.php on line 150
+[06-Jul-2017 13:55:01 EST] PHP Fatal error:  Class 'App\Controller\Email' not found in /home/kseducat/public_html/src/Controller/PagesController.php on line 165
+[06-Jul-2017 13:56:35 EST] PHP Fatal error:  Call to a member function from() on array in /home/kseducat/public_html/src/Controller/PagesController.php on line 188
+[06-Jul-2017 13:59:03 EST] PHP Fatal error:  Call to a member function from() on array in /home/kseducat/public_html/src/Controller/PagesController.php on line 188
+[06-Jul-2017 14:34:10 EST] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/kseducat/public_html/src/Controller/PagesController.php on line 283
+[06-Jul-2017 14:34:13 EST] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/kseducat/public_html/src/Controller/PagesController.php on line 283
+[06-Jul-2017 14:34:15 EST] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/kseducat/public_html/src/Controller/PagesController.php on line 283
+[06-Jul-2017 14:34:53 EST] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/kseducat/public_html/src/Controller/PagesController.php on line 283
+[06-Jul-2017 14:35:32 EST] PHP Parse error:  syntax error, unexpected ')' in /home/kseducat/public_html/src/Controller/PagesController.php on line 283
+[07-Jul-2017 12:50:49 EST] PHP Fatal error:  Call to a member function from() on array in /home/kseducat/public_html/src/Controller/PagesController.php on line 327
+[07-Jul-2017 12:55:57 EST] PHP Fatal error:  Call to a member function from() on array in /home/kseducat/public_html/src/Controller/PagesController.php on line 327
+[07-Jul-2017 13:02:24 EST] PHP Fatal error:  Call to a member function find() on boolean in /home/kseducat/public_html/src/Controller/Admin/SubscribesController.php on line 65
+[07-Jul-2017 13:02:26 EST] PHP Fatal error:  Call to a member function find() on boolean in /home/kseducat/public_html/src/Controller/Admin/SubscribesController.php on line 65
+[07-Jul-2017 13:37:28 EST] PHP Fatal error:  Class 'App\Controller\Email' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 176
+[07-Jul-2017 13:38:01 EST] PHP Fatal error:  Class 'App\Controller\Email' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 176
+[07-Jul-2017 14:54:36 EST] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 649
+[07-Jul-2017 14:56:03 EST] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 649
+[07-Jul-2017 14:56:28 EST] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 649
+[07-Jul-2017 14:57:32 EST] PHP Fatal error:  Class 'MetzWeb\fb\src\Facebook\FacebookSession' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 649
+[07-Jul-2017 14:57:36 EST] PHP Fatal error:  Class 'MetzWeb\fb\src\Facebook\FacebookSession' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 649
+[07-Jul-2017 15:03:37 EST] PHP Fatal error:  Class 'MetzWeb\fb\src\Facebook\FacebookSession' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 647
+[07-Jul-2017 15:05:08 EST] PHP Fatal error:  Class 'MetzWeb\Facebook\FacebookSession' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 645
+[07-Jul-2017 15:08:33 EST] PHP Fatal error:  Class 'MetzWeb\Facebook\FacebookSession' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 645
+[07-Jul-2017 15:08:37 EST] PHP Fatal error:  Class 'MetzWeb\Facebook\FacebookSession' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 645
+[07-Jul-2017 15:10:01 EST] PHP Fatal error:  Class 'Vendor\Facebook\FacebookSession' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 645
+[07-Jul-2017 15:10:49 EST] PHP Fatal error:  Class 'vendor\Facebook\FacebookSession' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 645
+[07-Jul-2017 15:16:49 EST] PHP Fatal error:  Class 'App\Vendor\Facebook\FacebookSession' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 645
+[07-Jul-2017 15:17:09 EST] PHP Fatal error:  Class 'Cake\Vendor\Facebook\FacebookSession' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 645
+[07-Jul-2017 15:18:44 EST] PHP Fatal error:  Class 'App\Controller\App' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 16
+[07-Jul-2017 15:19:22 EST] PHP Parse error:  syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM), expecting ',' or ';' in /home/kseducat/public_html/src/Controller/UsersController.php on line 16
+[07-Jul-2017 15:19:37 EST] PHP Parse error:  syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM), expecting ',' or ';' in /home/kseducat/public_html/src/Controller/UsersController.php on line 16
+[07-Jul-2017 15:21:13 EST] PHP Parse error:  syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM), expecting ',' or ';' in /home/kseducat/public_html/src/Controller/UsersController.php on line 16
+[07-Jul-2017 15:23:19 EST] PHP Fatal error:  Class 'App\Pos\Facebook\FacebookSession' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 647
+[07-Jul-2017 15:27:46 EST] PHP Fatal error:  Class 'App\vendor\Facebook\FacebookSession' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 647
+[07-Jul-2017 15:28:15 EST] PHP Fatal error:  Class 'App\Vendor\Facebook\FacebookSession' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 647
+[07-Jul-2017 15:28:19 EST] PHP Fatal error:  Class 'App\Vendor\Facebook\FacebookSession' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 647
+[07-Jul-2017 15:31:49 EST] PHP Fatal error:  Class 'App\Controller\FacebookSession' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 648
+[07-Jul-2017 15:31:53 EST] PHP Fatal error:  Class 'App\Controller\FacebookSession' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 648
+[07-Jul-2017 15:32:31 EST] PHP Fatal error:  Class 'App\Controller\FacebookSession' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 648
+[08-Jul-2017 02:12:06 Asia/Kolkata] PHP Warning:  require(/home/kseducat/public_html/vendor/autoload.php): failed to open stream: No such file or directory in /home/kseducat/public_html/config/bootstrap.php on line 23
+[08-Jul-2017 02:12:06 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required '/home/kseducat/public_html/vendor/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/config/bootstrap.php on line 23
+[08-Jul-2017 02:13:12 Asia/Kolkata] PHP Warning:  require(/home/kseducat/public_html/vendor/autoload.php): failed to open stream: No such file or directory in /home/kseducat/public_html/config/bootstrap.php on line 23
+[08-Jul-2017 02:13:12 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required '/home/kseducat/public_html/vendor/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/config/bootstrap.php on line 23
+[08-Jul-2017 02:13:31 Asia/Kolkata] PHP Warning:  require(/home/kseducat/public_html/vendor/autoload.php): failed to open stream: No such file or directory in /home/kseducat/public_html/config/bootstrap.php on line 23
+[08-Jul-2017 02:13:31 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required '/home/kseducat/public_html/vendor/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/config/bootstrap.php on line 23
+[08-Jul-2017 02:13:41 Asia/Kolkata] PHP Warning:  require(/home/kseducat/public_html/vendor/autoload.php): failed to open stream: No such file or directory in /home/kseducat/public_html/config/bootstrap.php on line 23
+[08-Jul-2017 02:13:41 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required '/home/kseducat/public_html/vendor/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/config/bootstrap.php on line 23
+[08-Jul-2017 02:15:09 Asia/Kolkata] PHP Warning:  require(/home/kseducat/public_html/vendor/autoload.php): failed to open stream: No such file or directory in /home/kseducat/public_html/config/bootstrap.php on line 23
+[08-Jul-2017 02:15:09 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required '/home/kseducat/public_html/vendor/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/config/bootstrap.php on line 23
+[08-Jul-2017 02:15:25 Asia/Kolkata] PHP Warning:  require(/home/kseducat/public_html/vendor/autoload.php): failed to open stream: No such file or directory in /home/kseducat/public_html/config/bootstrap.php on line 23
+[08-Jul-2017 02:15:25 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required '/home/kseducat/public_html/vendor/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/config/bootstrap.php on line 23
+[08-Jul-2017 02:15:34 Asia/Kolkata] PHP Warning:  require(/home/kseducat/public_html/vendor/autoload.php): failed to open stream: No such file or directory in /home/kseducat/public_html/config/bootstrap.php on line 23
+[08-Jul-2017 02:15:34 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required '/home/kseducat/public_html/vendor/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/config/bootstrap.php on line 23
+[08-Jul-2017 02:15:36 Asia/Kolkata] PHP Warning:  require(/home/kseducat/public_html/vendor/autoload.php): failed to open stream: No such file or directory in /home/kseducat/public_html/config/bootstrap.php on line 23
+[08-Jul-2017 02:15:36 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required '/home/kseducat/public_html/vendor/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/config/bootstrap.php on line 23
+[08-Jul-2017 02:15:45 Asia/Kolkata] PHP Warning:  require(/home/kseducat/public_html/vendor/autoload.php): failed to open stream: No such file or directory in /home/kseducat/public_html/config/bootstrap.php on line 23
+[08-Jul-2017 02:15:45 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required '/home/kseducat/public_html/vendor/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/config/bootstrap.php on line 23
+[08-Jul-2017 02:15:47 Asia/Kolkata] PHP Warning:  require(/home/kseducat/public_html/vendor/autoload.php): failed to open stream: No such file or directory in /home/kseducat/public_html/config/bootstrap.php on line 23
+[08-Jul-2017 02:15:47 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required '/home/kseducat/public_html/vendor/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/config/bootstrap.php on line 23
+[08-Jul-2017 02:16:08 Asia/Kolkata] PHP Warning:  require(/home/kseducat/public_html/vendor/autoload.php): failed to open stream: No such file or directory in /home/kseducat/public_html/config/bootstrap.php on line 23
+[08-Jul-2017 02:16:08 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required '/home/kseducat/public_html/vendor/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/config/bootstrap.php on line 23
+[08-Jul-2017 02:16:13 Asia/Kolkata] PHP Warning:  require(/home/kseducat/public_html/vendor/autoload.php): failed to open stream: No such file or directory in /home/kseducat/public_html/config/bootstrap.php on line 23
+[08-Jul-2017 02:16:13 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required '/home/kseducat/public_html/vendor/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/config/bootstrap.php on line 23
+[07-Jul-2017 15:46:57 EST] PHP Fatal error:  Class 'App\Controller\FacebookSession' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 635
+[07-Jul-2017 15:47:09 EST] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 646
+[07-Jul-2017 15:49:06 EST] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 646
+[07-Jul-2017 16:11:46 EST] PHP Fatal error:  Cannot use object of type stdClass as array in /home/kseducat/public_html/vendor/fb/src/Facebook/FacebookRedirectLoginHelper.php on line 179
+[07-Jul-2017 16:21:55 EST] PHP Fatal error:  Namespace declaration statement has to be the very first statement in the script in /home/kseducat/public_html/vendor/fb/src/Facebook/FacebookSession.php on line 25
+[07-Jul-2017 16:22:01 EST] PHP Fatal error:  Namespace declaration statement has to be the very first statement in the script in /home/kseducat/public_html/vendor/fb/src/Facebook/FacebookSession.php on line 25
+[07-Jul-2017 16:36:54 EST] PHP Fatal error:  Cannot use object of type stdClass as array in /home/kseducat/public_html/vendor/fb/src/Facebook/FacebookRedirectLoginHelper.php on line 179
+[07-Jul-2017 16:38:17 EST] PHP Fatal error:  Cannot use object of type stdClass as array in /home/kseducat/public_html/vendor/fb/src/Facebook/FacebookRedirectLoginHelper.php on line 179
+[07-Jul-2017 16:41:38 EST] PHP Fatal error:  Cannot use object of type stdClass as array in /home/kseducat/public_html/vendor/fb/src/Facebook/FacebookRedirectLoginHelper.php on line 180
+[07-Jul-2017 16:41:45 EST] PHP Fatal error:  Cannot use object of type stdClass as array in /home/kseducat/public_html/vendor/fb/src/Facebook/FacebookRedirectLoginHelper.php on line 180
+[07-Jul-2017 16:50:11 EST] PHP Fatal error:  Call to a member function findByEmail() on boolean in /home/kseducat/public_html/src/Controller/UsersController.php on line 683
+[07-Jul-2017 17:15:00 EST] PHP Fatal error:  Class 'App\Controller\String' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 717
+[07-Jul-2017 17:15:32 EST] PHP Fatal error:  Class 'App\Controller\String' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 717
+[07-Jul-2017 17:36:19 EST] PHP Parse error:  syntax error, unexpected ')' in /home/kseducat/public_html/vendor/fb/src/Facebook/FacebookRedirectLoginHelper.php on line 242
+[08-Jul-2017 01:17:01 EST] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/kseducat/public_html/vendor/fb/src/Facebook/FacebookRedirectLoginHelper.php on line 250
+[08-Jul-2017 01:18:03 EST] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/kseducat/public_html/vendor/fb/src/Facebook/FacebookRedirectLoginHelper.php on line 252
+[08-Jul-2017 01:18:22 EST] PHP Fatal error:  Call to a member function session() on null in /home/kseducat/public_html/vendor/fb/src/Facebook/FacebookRedirectLoginHelper.php on line 226
+[08-Jul-2017 01:18:35 EST] PHP Fatal error:  Call to a member function session() on null in /home/kseducat/public_html/vendor/fb/src/Facebook/FacebookRedirectLoginHelper.php on line 226
+[08-Jul-2017 01:20:25 EST] PHP Fatal error:  Call to a member function session() on null in /home/kseducat/public_html/vendor/fb/src/Facebook/FacebookRedirectLoginHelper.php on line 226
+[08-Jul-2017 01:25:07 EST] PHP Fatal error:  Call to a member function session() on null in /home/kseducat/public_html/vendor/fb/src/Facebook/FacebookRedirectLoginHelper.php on line 226
+[08-Jul-2017 01:28:25 EST] PHP Fatal error:  Call to a member function session() on null in /home/kseducat/public_html/vendor/fb/src/Facebook/FacebookRedirectLoginHelper.php on line 227
+[08-Jul-2017 02:34:04 EST] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/kseducat/public_html/vendor/fb/src/Facebook/FacebookRedirectLoginHelper.php on line 165
+[08-Jul-2017 02:34:53 EST] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/kseducat/public_html/vendor/fb/src/Facebook/FacebookRedirectLoginHelper.php on line 165
+[08-Jul-2017 02:34:56 EST] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/kseducat/public_html/vendor/fb/src/Facebook/FacebookRedirectLoginHelper.php on line 165
+[08-Jul-2017 02:38:23 EST] PHP Fatal error:  Call to a member function getToken() on string in /home/kseducat/public_html/src/Controller/UsersController.php on line 681
+[08-Jul-2017 03:10:55 EST] PHP Parse error:  syntax error, unexpected '>' in /home/kseducat/public_html/src/Controller/UsersController.php on line 692
+[08-Jul-2017 03:32:13 EST] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/kseducat/public_html/src/Controller/UsersController.php on line 727
+[08-Jul-2017 03:32:31 EST] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/kseducat/public_html/src/Controller/UsersController.php on line 727
+[08-Jul-2017 04:14:11 EST] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/kseducat/public_html/src/Controller/UsersController.php on line 710
+[08-Jul-2017 04:14:28 EST] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/kseducat/public_html/src/Controller/UsersController.php on line 710
+[08-Jul-2017 04:15:00 EST] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/kseducat/public_html/src/Controller/UsersController.php on line 710
+[08-Jul-2017 04:15:25 EST] PHP Fatal error:  Call to undefined method Cake\Controller\Component\AuthComponent::login() in /home/kseducat/public_html/src/Controller/UsersController.php on line 708
+[08-Jul-2017 04:16:25 EST] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/kseducat/public_html/src/Controller/UsersController.php on line 658
+[08-Jul-2017 04:16:26 EST] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/kseducat/public_html/src/Controller/UsersController.php on line 658
+[08-Jul-2017 04:17:00 EST] PHP Fatal error:  Call to undefined method Cake\Controller\Component\AuthComponent::login() in /home/kseducat/public_html/src/Controller/UsersController.php on line 710
+[08-Jul-2017 04:17:16 EST] PHP Fatal error:  Call to undefined method Cake\Controller\Component\AuthComponent::login() in /home/kseducat/public_html/src/Controller/UsersController.php on line 710
+[08-Jul-2017 04:17:57 EST] PHP Fatal error:  Cannot use Cake\Controller\Component\AuthComponent as AuthComponent because the name is already in use in /home/kseducat/public_html/src/Controller/UsersController.php on line 9
+[08-Jul-2017 04:17:58 EST] PHP Fatal error:  Cannot use Cake\Controller\Component\AuthComponent as AuthComponent because the name is already in use in /home/kseducat/public_html/src/Controller/UsersController.php on line 9
+[08-Jul-2017 04:18:36 EST] PHP Fatal error:  Call to undefined method Cake\Controller\Component\AuthComponent::login() in /home/kseducat/public_html/src/Controller/UsersController.php on line 710
+[08-Jul-2017 04:23:30 EST] PHP Fatal error:  Call to a member function renew() on null in /home/kseducat/public_html/src/Controller/Component/AuthComponent.php on line 642
+[08-Jul-2017 04:26:15 EST] PHP Fatal error:  Call to a member function write() on null in /home/kseducat/public_html/src/Controller/Component/AuthComponent.php on line 643
+[08-Jul-2017 04:58:39 EST] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/kseducat/public_html/src/Controller/UsersController.php on line 744
+[08-Jul-2017 05:26:20 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 805
+[08-Jul-2017 05:26:35 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 805
+[08-Jul-2017 05:29:40 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 805
+[08-Jul-2017 05:31:56 EST] PHP Fatal error:  Class 'vendor\Google\src\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 808
+[08-Jul-2017 05:34:40 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 805
+[08-Jul-2017 05:35:25 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 805
+[08-Jul-2017 05:35:27 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 805
+[08-Jul-2017 05:35:28 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 805
+[08-Jul-2017 05:35:43 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 805
+[08-Jul-2017 05:36:48 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 805
+[08-Jul-2017 05:36:48 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 805
+[08-Jul-2017 05:37:29 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 805
+[08-Jul-2017 05:37:37 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 805
+[08-Jul-2017 05:38:54 EST] PHP Fatal error:  Class 'Google_ServiceResource' not found in /home/kseducat/public_html/vendor/Google/src/contrib/Google_PlusService.php on line 25
+[08-Jul-2017 05:38:54 EST] PHP Fatal error:  Class 'Google_ServiceResource' not found in /home/kseducat/public_html/vendor/Google/src/contrib/Google_PlusService.php on line 25
+[08-Jul-2017 05:42:32 EST] PHP Fatal error:  Class 'Google_ServiceResource' not found in /home/kseducat/public_html/vendor/Google/src/contrib/Google_PlusService.php on line 25
+[08-Jul-2017 05:42:38 EST] PHP Fatal error:  Class 'Google_ServiceResource' not found in /home/kseducat/public_html/vendor/Google/src/contrib/Google_PlusService.php on line 25
+[08-Jul-2017 05:42:40 EST] PHP Fatal error:  Class 'Google_ServiceResource' not found in /home/kseducat/public_html/vendor/Google/src/contrib/Google_PlusService.php on line 25
+[08-Jul-2017 05:43:54 EST] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '../Config/google_login.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/src/Controller/UsersController.php on line 803
+[08-Jul-2017 05:46:21 EST] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/kseducat/public_html/src/Controller/UsersController.php on line 802
+[08-Jul-2017 05:46:37 EST] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/kseducat/public_html/src/Controller/UsersController.php on line 802
+[08-Jul-2017 05:46:59 EST] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '../Vendor/Google/src/config.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/config/google_login.php on line 3
+[08-Jul-2017 05:47:12 EST] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '../Vendor/Google/src/config.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/config/google_login.php on line 3
+[08-Jul-2017 05:47:34 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 807
+[08-Jul-2017 05:47:34 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 807
+[08-Jul-2017 05:48:15 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 810
+[08-Jul-2017 05:48:15 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 810
+[08-Jul-2017 05:48:15 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 810
+[08-Jul-2017 05:48:16 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 810
+[08-Jul-2017 05:48:16 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 810
+[08-Jul-2017 05:48:32 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 810
+[08-Jul-2017 05:49:31 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 810
+[08-Jul-2017 05:50:49 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 813
+[08-Jul-2017 05:50:49 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 813
+[08-Jul-2017 05:50:53 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 813
+[08-Jul-2017 05:51:53 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 813
+[08-Jul-2017 05:51:57 EST] PHP Fatal error:  Class 'Google\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 818
+[08-Jul-2017 05:52:01 EST] PHP Fatal error:  Class 'Google\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 818
+[08-Jul-2017 05:52:29 EST] PHP Fatal error:  Class 'MetzWeb\Google\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 818
+[08-Jul-2017 05:52:56 EST] PHP Fatal error:  Class 'vendor\Google\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 818
+[08-Jul-2017 05:53:20 EST] PHP Fatal error:  Class 'vendor\Google\src\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 818
+[08-Jul-2017 05:54:57 EST] PHP Parse error:  syntax error, unexpected '/', expecting ',' or ';' in /home/kseducat/public_html/src/Controller/UsersController.php on line 38
+[08-Jul-2017 05:54:57 EST] PHP Parse error:  syntax error, unexpected '/', expecting ',' or ';' in /home/kseducat/public_html/src/Controller/UsersController.php on line 38
+[08-Jul-2017 05:54:57 EST] PHP Parse error:  syntax error, unexpected '/', expecting ',' or ';' in /home/kseducat/public_html/src/Controller/UsersController.php on line 38
+[08-Jul-2017 05:54:58 EST] PHP Parse error:  syntax error, unexpected '/', expecting ',' or ';' in /home/kseducat/public_html/src/Controller/UsersController.php on line 38
+[08-Jul-2017 05:54:58 EST] PHP Parse error:  syntax error, unexpected '/', expecting ',' or ';' in /home/kseducat/public_html/src/Controller/UsersController.php on line 38
+[08-Jul-2017 05:55:19 EST] PHP Fatal error:  Class 'vendor\Google\src\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 818
+[08-Jul-2017 05:55:22 EST] PHP Fatal error:  Class 'vendor\Google\src\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 818
+[08-Jul-2017 05:55:22 EST] PHP Fatal error:  Class 'vendor\Google\src\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 818
+[08-Jul-2017 05:56:21 EST] PHP Fatal error:  Class 'Google_ServiceResource' not found in /home/kseducat/public_html/vendor/Google/src/contrib/Google_PlusService.php on line 25
+[08-Jul-2017 05:57:44 EST] PHP Fatal error:  Class 'vendor\Google\src\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 820
+[08-Jul-2017 06:01:49 EST] PHP Fatal error:  Class 'Google\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 822
+[08-Jul-2017 06:02:11 EST] PHP Fatal error:  Class 'Google\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 822
+[08-Jul-2017 06:03:44 EST] PHP Fatal error:  Class 'Google\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 823
+[08-Jul-2017 06:04:52 EST] PHP Fatal error:  Class 'Google\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 823
+[08-Jul-2017 06:04:54 EST] PHP Fatal error:  Class 'Google\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 823
+[08-Jul-2017 06:06:32 EST] PHP Fatal error:  Class 'Google\Src\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 823
+[08-Jul-2017 06:07:27 EST] PHP Fatal error:  Class 'Google\src\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 823
+[08-Jul-2017 06:07:34 EST] PHP Fatal error:  Class 'Google\src\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 823
+[08-Jul-2017 06:07:35 EST] PHP Fatal error:  Class 'Google\src\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 823
+[08-Jul-2017 06:08:39 EST] PHP Fatal error:  Class 'Google\src\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 823
+[08-Jul-2017 06:08:40 EST] PHP Fatal error:  Class 'Google\src\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 823
+[08-Jul-2017 06:08:52 EST] PHP Fatal error:  Class 'Google\src\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 823
+[08-Jul-2017 06:09:46 EST] PHP Fatal error:  Class 'Google\src\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 823
+[08-Jul-2017 06:10:05 EST] PHP Fatal error:  Class 'Google\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 823
+[08-Jul-2017 06:10:08 EST] PHP Fatal error:  Class 'Google\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 823
+[08-Jul-2017 06:10:22 EST] PHP Fatal error:  Class 'Google\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 823
+[08-Jul-2017 06:11:10 EST] PHP Fatal error:  Class 'Google\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 823
+[08-Jul-2017 06:11:14 EST] PHP Fatal error:  Class 'Google\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 823
+[08-Jul-2017 06:12:23 EST] PHP Fatal error:  Class 'Google\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 823
+[08-Jul-2017 06:12:39 EST] PHP Fatal error:  Class 'Google\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 823
+[08-Jul-2017 06:12:51 EST] PHP Fatal error:  Class 'Google\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 823
+[08-Jul-2017 06:13:28 EST] PHP Fatal error:  Class 'Google\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 823
+[08-Jul-2017 06:13:48 EST] PHP Fatal error:  Class 'Google\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 823
+[08-Jul-2017 06:13:51 EST] PHP Fatal error:  Class 'Google\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 823
+[08-Jul-2017 06:15:06 EST] PHP Fatal error:  Class 'Google\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 823
+[08-Jul-2017 06:15:11 EST] PHP Fatal error:  Class 'Google\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 823
+[08-Jul-2017 06:15:12 EST] PHP Fatal error:  Class 'Google\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 823
+[08-Jul-2017 06:15:12 EST] PHP Fatal error:  Class 'Google\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 823
+[08-Jul-2017 06:15:13 EST] PHP Fatal error:  Class 'Google\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 823
+[08-Jul-2017 06:15:13 EST] PHP Fatal error:  Class 'Google\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 823
+[08-Jul-2017 06:15:17 EST] PHP Fatal error:  Class 'Google\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 823
+[08-Jul-2017 06:15:17 EST] PHP Fatal error:  Class 'Google\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 823
+[08-Jul-2017 06:15:50 EST] PHP Fatal error:  Class 'Google\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 823
+[08-Jul-2017 06:16:28 EST] PHP Parse error:  syntax error, unexpected 'use' (T_USE), expecting identifier (T_STRING) or function (T_FUNCTION) or const (T_CONST) or \\ (T_NS_SEPARATOR) in /home/kseducat/public_html/src/Controller/UsersController.php on line 36
+[08-Jul-2017 06:16:58 EST] PHP Parse error:  syntax error, unexpected 'use' (T_USE), expecting identifier (T_STRING) or function (T_FUNCTION) or const (T_CONST) or \\ (T_NS_SEPARATOR) in /home/kseducat/public_html/src/Controller/UsersController.php on line 36
+[08-Jul-2017 06:17:06 EST] PHP Parse error:  syntax error, unexpected 'use' (T_USE), expecting identifier (T_STRING) or function (T_FUNCTION) or const (T_CONST) or \\ (T_NS_SEPARATOR) in /home/kseducat/public_html/src/Controller/UsersController.php on line 36
+[08-Jul-2017 06:18:36 EST] PHP Parse error:  syntax error, unexpected 'use' (T_USE), expecting identifier (T_STRING) or function (T_FUNCTION) or const (T_CONST) or \\ (T_NS_SEPARATOR) in /home/kseducat/public_html/src/Controller/UsersController.php on line 36
+[08-Jul-2017 06:19:42 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 809
+[08-Jul-2017 06:20:30 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 812
+[08-Jul-2017 06:20:31 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 812
+[08-Jul-2017 06:24:19 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 809
+[08-Jul-2017 06:24:33 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 811
+[08-Jul-2017 06:24:35 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 811
+[08-Jul-2017 06:24:35 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 811
+[08-Jul-2017 06:24:35 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 811
+[08-Jul-2017 06:24:57 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 811
+[08-Jul-2017 06:26:48 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 811
+[08-Jul-2017 06:28:58 EST] PHP Fatal error:  Class 'vendor\Google\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 811
+[08-Jul-2017 06:29:14 EST] PHP Fatal error:  Class 'vendor\Google\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 811
+[08-Jul-2017 06:29:17 EST] PHP Fatal error:  Class 'vendor\Google\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 811
+[08-Jul-2017 06:29:46 EST] PHP Fatal error:  Class 'App\vendor\Google\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 811
+[08-Jul-2017 06:29:47 EST] PHP Fatal error:  Class 'App\vendor\Google\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 811
+[08-Jul-2017 06:29:50 EST] PHP Fatal error:  Class 'App\vendor\Google\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 811
+[08-Jul-2017 06:30:11 EST] PHP Fatal error:  Class 'App\vendor\Google\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 811
+[08-Jul-2017 06:30:46 EST] PHP Fatal error:  Class 'App\Vendor\Google\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 811
+[08-Jul-2017 06:31:08 EST] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required 'service/Google_Utils.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/vendor/Google/src/auth/Google_OAuth2.php on line 20
+[08-Jul-2017 06:31:10 EST] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required 'service/Google_Utils.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/vendor/Google/src/auth/Google_OAuth2.php on line 20
+[08-Jul-2017 06:31:13 EST] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required 'service/Google_Utils.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/vendor/Google/src/auth/Google_OAuth2.php on line 20
+[08-Jul-2017 06:32:43 EST] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required 'service/Google_Utils.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/vendor/Google/src/auth/Google_OAuth2.php on line 20
+[08-Jul-2017 06:32:52 EST] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required 'service/Google_Utils.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/vendor/Google/src/auth/Google_OAuth2.php on line 20
+[08-Jul-2017 06:34:39 EST] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required 'service/Google_Utils.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/vendor/Google/src/auth/Google_OAuth2.php on line 20
+[08-Jul-2017 06:34:39 EST] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required 'service/Google_Utils.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/vendor/Google/src/auth/Google_OAuth2.php on line 20
+[08-Jul-2017 06:35:36 EST] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '../service/Google_Utils.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/vendor/Google/src/auth/Google_OAuth2.php on line 20
+[08-Jul-2017 06:38:19 EST] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '../service/Google_Utils.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/vendor/Google/src/auth/Google_OAuth2.php on line 20
+[08-Jul-2017 06:39:00 EST] PHP Parse error:  syntax error, unexpected '.' in /home/kseducat/public_html/src/Controller/UsersController.php on line 812
+[08-Jul-2017 06:39:55 EST] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '../service/Google_Utils.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/vendor/Google/src/auth/Google_OAuth2.php on line 20
+[08-Jul-2017 06:39:58 EST] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '../service/Google_Utils.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/vendor/Google/src/auth/Google_OAuth2.php on line 20
+[08-Jul-2017 06:40:02 EST] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '../service/Google_Utils.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/vendor/Google/src/auth/Google_OAuth2.php on line 20
+[08-Jul-2017 06:40:02 EST] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '../service/Google_Utils.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/vendor/Google/src/auth/Google_OAuth2.php on line 20
+[08-Jul-2017 06:40:16 EST] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '../service/Google_Utils.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/vendor/Google/src/auth/Google_OAuth2.php on line 20
+[08-Jul-2017 06:42:38 EST] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required 'service/Google_Utils.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/vendor/Google/src/auth/Google_OAuth2.php on line 20
+[08-Jul-2017 06:42:39 EST] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required 'service/Google_Utils.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/vendor/Google/src/auth/Google_OAuth2.php on line 20
+[08-Jul-2017 06:42:40 EST] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required 'service/Google_Utils.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/vendor/Google/src/auth/Google_OAuth2.php on line 20
+[08-Jul-2017 06:42:40 EST] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required 'service/Google_Utils.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/vendor/Google/src/auth/Google_OAuth2.php on line 20
+[08-Jul-2017 06:45:32 EST] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '../text.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/vendor/Google/src/auth/Google_OAuth2.php on line 20
+[08-Jul-2017 06:45:32 EST] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '../text.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/vendor/Google/src/auth/Google_OAuth2.php on line 20
+[08-Jul-2017 06:45:34 EST] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '../text.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/vendor/Google/src/auth/Google_OAuth2.php on line 20
+[08-Jul-2017 06:45:50 EST] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '../text.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/vendor/Google/src/auth/Google_OAuth2.php on line 20
+[08-Jul-2017 06:45:55 EST] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '../text.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/vendor/Google/src/auth/Google_OAuth2.php on line 20
+[08-Jul-2017 06:47:13 EST] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '../text.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/vendor/Google/src/auth/Google_OAuth2.php on line 20
+[08-Jul-2017 06:47:14 EST] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '../text.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/vendor/Google/src/auth/Google_OAuth2.php on line 20
+[08-Jul-2017 06:48:46 EST] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required 'io/Google_HttpRequest.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/vendor/Google/src/io/Google_IO.php on line 18
+[08-Jul-2017 06:48:47 EST] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required 'io/Google_HttpRequest.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/vendor/Google/src/io/Google_IO.php on line 18
+[08-Jul-2017 06:48:49 EST] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required 'io/Google_HttpRequest.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/vendor/Google/src/io/Google_IO.php on line 18
+[08-Jul-2017 06:49:01 EST] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required 'io/Google_HttpRequest.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/vendor/Google/src/io/Google_IO.php on line 18
+[08-Jul-2017 06:49:05 EST] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required 'io/Google_HttpRequest.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/vendor/Google/src/io/Google_IO.php on line 18
+[08-Jul-2017 06:50:10 EST] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required 'io/Google_HttpRequest.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/vendor/Google/src/io/Google_IO.php on line 18
+[08-Jul-2017 06:51:19 EST] PHP Fatal error:  Class 'App\Vendor\Google\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 814
+[08-Jul-2017 06:51:29 EST] PHP Fatal error:  Class 'App\Vendor\Google\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 814
+[08-Jul-2017 06:51:44 EST] PHP Fatal error:  Class 'App\Vendor\Google\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 814
+[08-Jul-2017 06:52:17 EST] PHP Fatal error:  Class 'App\Vendor\Google\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 814
+[08-Jul-2017 06:53:04 EST] PHP Fatal error:  Class 'App\Vendor\Google\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 814
+[08-Jul-2017 06:54:41 EST] PHP Fatal error:  Class 'App\Vendor\Google\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 812
+[08-Jul-2017 06:55:36 EST] PHP Fatal error:  Class 'App\Vendor\Google\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 815
+[08-Jul-2017 06:57:04 EST] PHP Fatal error:  Class 'App\Vendor\Google\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 815
+[08-Jul-2017 07:02:28 EST] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '../Config/google_login.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/src/Controller/UsersController.php on line 829
+[08-Jul-2017 07:03:20 EST] PHP Fatal error:  Class 'App\Vendor\Google\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 815
+[08-Jul-2017 07:05:51 EST] PHP Fatal error:  require() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '/home/kseducat/public_html/config/Googlegoogle_login.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/src/Controller/UsersController.php on line 808
+[08-Jul-2017 07:08:23 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 809
+[08-Jul-2017 07:08:50 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 809
+[08-Jul-2017 07:08:53 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 809
+[08-Jul-2017 07:09:22 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 824
+[08-Jul-2017 07:09:38 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 824
+[08-Jul-2017 07:09:38 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 824
+[08-Jul-2017 07:09:39 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 824
+[08-Jul-2017 07:09:39 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 824
+[08-Jul-2017 07:09:39 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 824
+[08-Jul-2017 07:09:39 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 824
+[08-Jul-2017 07:09:40 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 824
+[08-Jul-2017 07:09:46 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 809
+[08-Jul-2017 07:09:46 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 809
+[08-Jul-2017 07:09:46 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 809
+[08-Jul-2017 07:10:21 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 824
+[08-Jul-2017 07:10:22 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 824
+[08-Jul-2017 07:12:05 EST] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '../vendor/Google/src/config.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/config/google_login.php on line 3
+[08-Jul-2017 07:12:55 EST] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '/home/kseducat/public_html/vendor/Google/src/service/Google_Utils.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/vendor/Google/auth/Google_OAuth2.php on line 21
+[08-Jul-2017 07:13:44 EST] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '/home/kseducat/public_html/vendor/Google/src/service/Google_Utils.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/vendor/Google/auth/Google_OAuth2.php on line 21
+[08-Jul-2017 07:14:16 EST] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '/home/kseducat/public_html/vendor/Google/src/service/Google_Utils.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/vendor/Google/auth/Google_OAuth2.php on line 21
+[08-Jul-2017 07:14:19 EST] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '/home/kseducat/public_html/vendor/Google/src/service/Google_Utils.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/vendor/Google/auth/Google_OAuth2.php on line 21
+[08-Jul-2017 07:14:20 EST] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '/home/kseducat/public_html/vendor/Google/src/service/Google_Utils.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/vendor/Google/auth/Google_OAuth2.php on line 21
+[08-Jul-2017 07:14:20 EST] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '/home/kseducat/public_html/vendor/Google/src/service/Google_Utils.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/vendor/Google/auth/Google_OAuth2.php on line 21
+[08-Jul-2017 07:14:20 EST] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '/home/kseducat/public_html/vendor/Google/src/service/Google_Utils.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/vendor/Google/auth/Google_OAuth2.php on line 21
+[08-Jul-2017 07:14:24 EST] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '/home/kseducat/public_html/vendor/Google/src/service/Google_Utils.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/vendor/Google/auth/Google_OAuth2.php on line 21
+[08-Jul-2017 07:15:39 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 824
+[08-Jul-2017 07:15:58 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 809
+[08-Jul-2017 07:18:42 EST] PHP Fatal error:  Cannot redeclare class Google_Client in /home/kseducat/public_html/vendor/Google/Google_Client.php on line 23
+[08-Jul-2017 07:18:42 EST] PHP Fatal error:  Cannot redeclare class Google_Client in /home/kseducat/public_html/vendor/Google/Google_Client.php on line 23
+[08-Jul-2017 07:18:51 EST] PHP Fatal error:  Cannot redeclare class Google_Client in /home/kseducat/public_html/vendor/Google/Google_Client.php on line 23
+[08-Jul-2017 07:20:22 EST] PHP Fatal error:  Class 'Google_ServiceResource' not found in /home/kseducat/public_html/vendor/Google/contrib/Google_PlusService.php on line 25
+[08-Jul-2017 07:20:25 EST] PHP Fatal error:  Class 'Google_ServiceResource' not found in /home/kseducat/public_html/vendor/Google/contrib/Google_PlusService.php on line 25
+[08-Jul-2017 07:20:27 EST] PHP Fatal error:  Class 'Google_ServiceResource' not found in /home/kseducat/public_html/vendor/Google/contrib/Google_PlusService.php on line 25
+[08-Jul-2017 07:20:29 EST] PHP Fatal error:  Class 'Google_ServiceResource' not found in /home/kseducat/public_html/vendor/Google/contrib/Google_PlusService.php on line 25
+[08-Jul-2017 07:22:22 EST] PHP Fatal error:  Class 'Google_ServiceResource' not found in /home/kseducat/public_html/vendor/Google/contrib/Google_PlusService.php on line 25
+[08-Jul-2017 07:22:23 EST] PHP Fatal error:  Class 'Google_ServiceResource' not found in /home/kseducat/public_html/vendor/Google/contrib/Google_PlusService.php on line 25
+[08-Jul-2017 07:23:02 EST] PHP Fatal error:  Class 'Google_ServiceResource' not found in /home/kseducat/public_html/vendor/Google/contrib/Google_PlusService.php on line 25
+[08-Jul-2017 07:24:46 EST] PHP Fatal error:  require() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '/home/kseducat/public_html/vendor/Google/contrib/Google_Client.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kseducat/public_html/src/Controller/UsersController.php on line 810
+[08-Jul-2017 07:25:30 EST] PHP Fatal error:  Class 'Google_ServiceResource' not found in /home/kseducat/public_html/vendor/Google/contrib/Google_PlusService.php on line 25
+[08-Jul-2017 07:25:40 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 816
+[08-Jul-2017 07:26:24 EST] PHP Fatal error:  Class 'App\Controller\Google_Client' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 816
+[08-Jul-2017 07:28:49 EST] PHP Fatal error:  Class 'App\Controller\App' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 36
+[08-Jul-2017 07:33:21 EST] PHP Fatal error:  Class 'App\Controller\App' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 40
+[08-Jul-2017 07:33:23 EST] PHP Fatal error:  Class 'App\Controller\App' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 40
+[08-Jul-2017 07:42:28 EST] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ')' in /home/kseducat/public_html/vendor/Google/config.php on line 83
+[08-Jul-2017 07:42:40 EST] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ')' in /home/kseducat/public_html/vendor/Google/config.php on line 83
+[08-Jul-2017 07:42:41 EST] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ')' in /home/kseducat/public_html/vendor/Google/config.php on line 83
+[08-Jul-2017 08:16:29 EST] PHP Fatal error:  Class 'App\Controller\Google_PlusService' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 827
+[08-Jul-2017 08:16:39 EST] PHP Fatal error:  Class 'App\Controller\Google_PlusService' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 827
+[08-Jul-2017 08:16:49 EST] PHP Fatal error:  Class 'App\Controller\Google_PlusService' not found in /home/kseducat/public_html/src/Controller/UsersController.php on line 827
+[08-Jul-2017 08:17:54 EST] PHP Fatal error:  Call to a member function findByEmail() on boolean in /home/kseducat/public_html/src/Controller/UsersController.php on line 845
+[12-Jul-2017 12:52:02 EST] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/kseducat/public_html/src/Template/Products/payment.ctp on line 32
+[12-Jul-2017 12:52:09 EST] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/kseducat/public_html/src/Template/Products/payment.ctp on line 32
+[12-Jul-2017 12:52:47 EST] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/kseducat/public_html/src/Template/Products/payment.ctp on line 31
+[12-Jul-2017 13:51:22 EST] PHP Fatal error:  Call to undefined function App\Controller\crypting() in /home/kseducat/public_html/src/Controller/ProductsController.php on line 269
+[12-Jul-2017 13:51:29 EST] PHP Fatal error:  Call to undefined function App\Controller\crypting() in /home/kseducat/public_html/src/Controller/ProductsController.php on line 269
+[12-Jul-2017 13:55:14 EST] PHP Parse error:  syntax error, unexpected '?', expecting ']' in /home/kseducat/public_html/src/Controller/ProductsController.php on line 269
+[13-Jul-2017 11:16:13 EST] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/kseducat/public_html/src/Controller/ProductsController.php on line 213
+[13-Jul-2017 11:16:15 EST] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/kseducat/public_html/src/Controller/ProductsController.php on line 213
+[13-Jul-2017 11:57:16 EST] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home/kseducat/public_html/src/Controller/ProductsController.php on line 216
+[13-Jul-2017 11:57:19 EST] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home/kseducat/public_html/src/Controller/ProductsController.php on line 216
+[13-Jul-2017 12:32:34 EST] PHP Parse error:  syntax error, unexpected ''error_Message]."<h4>";	?>' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/kseducat/public_html/src/Template/Products/failure.ctp on line 1
+[13-Jul-2017 12:32:38 EST] PHP Parse error:  syntax error, unexpected ''error_Message]."<h4>";	?>' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/kseducat/public_html/src/Template/Products/failure.ctp on line 1
+[13-Jul-2017 12:52:37 EST] PHP Fatal error:  Call to a member function find() on boolean in /home/kseducat/public_html/src/Controller/ProductsController.php on line 220
+[13-Jul-2017 12:53:16 EST] PHP Fatal error:  Call to a member function find() on boolean in /home/kseducat/public_html/src/Controller/ProductsController.php on line 220
+[13-Jul-2017 12:53:17 EST] PHP Fatal error:  Call to a member function find() on boolean in /home/kseducat/public_html/src/Controller/ProductsController.php on line 220
+[13-Jul-2017 12:53:50 EST] PHP Fatal error:  Call to a member function find() on boolean in /home/kseducat/public_html/src/Controller/ProductsController.php on line 220
+[14-Jul-2017 16:17:12 EST] PHP Parse error:  syntax error, unexpected ';' in /home/kseducat/public_html/src/Template/Admin/Users/index.ctp on line 82
+[14-Jul-2017 16:17:25 EST] PHP Parse error:  syntax error, unexpected ';' in /home/kseducat/public_html/src/Template/Admin/Users/index.ctp on line 82
+[14-Jul-2017 16:17:27 EST] PHP Parse error:  syntax error, unexpected ';' in /home/kseducat/public_html/src/Template/Admin/Users/index.ctp on line 82
+[14-Jul-2017 16:18:09 EST] PHP Parse error:  syntax error, unexpected ';' in /home/kseducat/public_html/src/Template/Admin/Users/index.ctp on line 82
+[14-Jul-2017 16:19:24 EST] PHP Parse error:  syntax error, unexpected ';' in /home/kseducat/public_html/src/Template/Admin/Admins/dashboard.ctp on line 116
+[14-Jul-2017 16:19:26 EST] PHP Parse error:  syntax error, unexpected ';' in /home/kseducat/public_html/src/Template/Admin/Admins/dashboard.ctp on line 116
+[16-Jul-2017 01:21:05 Asia/Kolkata] PHP Notice:  Undefined variable: udc in /home/kseducat/public_html/webroot/test.php on line 56
+[16-Jul-2017 01:25:12 Asia/Kolkata] PHP Notice:  Undefined variable: udc in /home/kseducat/public_html/webroot/test.php on line 57
+[16-Jul-2017 01:25:14 Asia/Kolkata] PHP Notice:  Undefined variable: udc in /home/kseducat/public_html/webroot/test.php on line 57
+[16-Jul-2017 01:26:02 Asia/Kolkata] PHP Notice:  Undefined variable: udc in /home/kseducat/public_html/webroot/test.php on line 57
+[16-Jul-2017 01:27:12 Asia/Kolkata] PHP Notice:  Undefined variable: udc in /home/kseducat/public_html/webroot/test.php on line 57
+[16-Jul-2017 01:27:33 Asia/Kolkata] PHP Notice:  Undefined variable: udc in /home/kseducat/public_html/webroot/test.php on line 57
+[16-Jul-2017 01:27:34 Asia/Kolkata] PHP Notice:  Undefined variable: udc in /home/kseducat/public_html/webroot/test.php on line 57
+[16-Jul-2017 01:27:49 Asia/Kolkata] PHP Notice:  Undefined variable: udc in /home/kseducat/public_html/webroot/test.php on line 57
+[16-Jul-2017 01:28:05 Asia/Kolkata] PHP Notice:  Undefined variable: udc in /home/kseducat/public_html/webroot/test.php on line 57
+[16-Jul-2017 01:28:06 Asia/Kolkata] PHP Notice:  Undefined variable: udc in /home/kseducat/public_html/webroot/test.php on line 57
+[16-Jul-2017 01:28:16 Asia/Kolkata] PHP Notice:  Undefined variable: udc in /home/kseducat/public_html/webroot/test.php on line 57
+[16-Jul-2017 01:28:17 Asia/Kolkata] PHP Notice:  Undefined variable: udc in /home/kseducat/public_html/webroot/test.php on line 57
+[16-Jul-2017 01:28:31 Asia/Kolkata] PHP Notice:  Undefined variable: udc in /home/kseducat/public_html/webroot/test.php on line 57
+[16-Jul-2017 01:28:33 Asia/Kolkata] PHP Notice:  Undefined variable: udc in /home/kseducat/public_html/webroot/test.php on line 57
+[16-Jul-2017 01:29:01 Asia/Kolkata] PHP Notice:  Undefined variable: udc in /home/kseducat/public_html/webroot/test.php on line 57
+[16-Jul-2017 01:29:02 Asia/Kolkata] PHP Notice:  Undefined variable: udc in /home/kseducat/public_html/webroot/test.php on line 57
+[16-Jul-2017 01:29:03 Asia/Kolkata] PHP Notice:  Undefined variable: udc in /home/kseducat/public_html/webroot/test.php on line 57
+[16-Jul-2017 01:30:15 Asia/Kolkata] PHP Notice:  Undefined variable: udc in /home/kseducat/public_html/webroot/test.php on line 57
+[16-Jul-2017 01:30:17 Asia/Kolkata] PHP Notice:  Undefined variable: udc in /home/kseducat/public_html/webroot/test.php on line 57
+[16-Jul-2017 01:30:19 Asia/Kolkata] PHP Notice:  Undefined variable: udc in /home/kseducat/public_html/webroot/test.php on line 57
+[16-Jul-2017 01:30:25 Asia/Kolkata] PHP Notice:  Undefined variable: udc in /home/kseducat/public_html/webroot/test.php on line 57
+[16-Jul-2017 01:30:53 Asia/Kolkata] PHP Notice:  Undefined variable: udc in /home/kseducat/public_html/webroot/test.php on line 57
+[16-Jul-2017 01:32:18 Asia/Kolkata] PHP Notice:  Undefined variable: udc in /home/kseducat/public_html/webroot/test.php on line 57
+[16-Jul-2017 01:32:18 Asia/Kolkata] PHP Notice:  Undefined variable: data_to_send in /home/kseducat/public_html/webroot/test.php on line 98
+[16-Jul-2017 01:32:25 Asia/Kolkata] PHP Notice:  Undefined variable: udc in /home/kseducat/public_html/webroot/test.php on line 57
+[16-Jul-2017 01:32:25 Asia/Kolkata] PHP Notice:  Undefined variable: data_to_send in /home/kseducat/public_html/webroot/test.php on line 98
+[16-Jul-2017 01:43:01 Asia/Kolkata] PHP Notice:  Undefined variable: udc in /home/kseducat/public_html/webroot/test.php on line 57
+[16-Jul-2017 01:43:01 Asia/Kolkata] PHP Notice:  Undefined variable: data_to_send in /home/kseducat/public_html/webroot/test.php on line 98
+[16-Jul-2017 01:43:03 Asia/Kolkata] PHP Notice:  Undefined variable: udc in /home/kseducat/public_html/webroot/test.php on line 57
+[16-Jul-2017 01:43:03 Asia/Kolkata] PHP Notice:  Undefined variable: data_to_send in /home/kseducat/public_html/webroot/test.php on line 98
+[16-Jul-2017 01:43:05 Asia/Kolkata] PHP Notice:  Undefined variable: udc in /home/kseducat/public_html/webroot/test.php on line 57
+[16-Jul-2017 01:43:05 Asia/Kolkata] PHP Notice:  Undefined variable: data_to_send in /home/kseducat/public_html/webroot/test.php on line 98
+[16-Jul-2017 01:43:07 Asia/Kolkata] PHP Notice:  Undefined variable: udc in /home/kseducat/public_html/webroot/test.php on line 57
+[16-Jul-2017 01:43:07 Asia/Kolkata] PHP Notice:  Undefined variable: data_to_send in /home/kseducat/public_html/webroot/test.php on line 98
+[16-Jul-2017 02:01:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'down' (T_STRING) in /home/kseducat/public_html/webroot/test.php on line 5
+[16-Jul-2017 02:01:33 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'down' (T_STRING) in /home/kseducat/public_html/webroot/test.php on line 5
+[16-Jul-2017 02:01:35 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'down' (T_STRING) in /home/kseducat/public_html/webroot/test.php on line 5
+[16-Jul-2017 02:05:45 Asia/Kolkata] PHP Notice:  Undefined variable: result in /home/kseducat/public_html/webroot/test.php on line 23
+[16-Jul-2017 02:05:48 Asia/Kolkata] PHP Notice:  Undefined variable: result in /home/kseducat/public_html/webroot/test.php on line 23
+[16-Jul-2017 02:05:51 Asia/Kolkata] PHP Notice:  Undefined variable: result in /home/kseducat/public_html/webroot/test.php on line 23
+[16-Jul-2017 02:07:32 Asia/Kolkata] PHP Notice:  Undefined variable: udc in /home/kseducat/public_html/webroot/test.php on line 57
+[16-Jul-2017 02:07:32 Asia/Kolkata] PHP Notice:  Undefined variable: data_to_send in /home/kseducat/public_html/webroot/test.php on line 98
+[16-Jul-2017 02:07:44 Asia/Kolkata] PHP Notice:  Undefined variable: udc in /home/kseducat/public_html/webroot/test.php on line 57
+[16-Jul-2017 02:07:44 Asia/Kolkata] PHP Notice:  Undefined variable: data_to_send in /home/kseducat/public_html/webroot/test.php on line 98
+[16-Jul-2017 02:09:08 Asia/Kolkata] PHP Notice:  Undefined variable: udc in /home/kseducat/public_html/webroot/test.php on line 57
+[16-Jul-2017 02:09:08 Asia/Kolkata] PHP Notice:  Undefined variable: data_to_send in /home/kseducat/public_html/webroot/test.php on line 98
+[16-Jul-2017 02:09:16 Asia/Kolkata] PHP Notice:  Undefined variable: udc in /home/kseducat/public_html/webroot/test.php on line 57
+[16-Jul-2017 02:09:18 Asia/Kolkata] PHP Notice:  Undefined variable: udc in /home/kseducat/public_html/webroot/test.php on line 57
+[16-Jul-2017 02:10:19 Asia/Kolkata] PHP Notice:  Undefined variable: udc in /home/kseducat/public_html/webroot/test.php on line 57
+[16-Jul-2017 02:10:19 Asia/Kolkata] PHP Warning:  curl_errno(): 3 is not a valid cURL handle resource in /home/kseducat/public_html/webroot/test.php on line 103
+[16-Jul-2017 02:10:19 Asia/Kolkata] PHP Warning:  curl_exec(): 3 is not a valid cURL handle resource in /home/kseducat/public_html/webroot/test.php on line 109
+[16-Jul-2017 02:10:19 Asia/Kolkata] PHP Warning:  curl_close(): 3 is not a valid cURL handle resource in /home/kseducat/public_html/webroot/test.php on line 111
+[16-Jul-2017 02:10:22 Asia/Kolkata] PHP Notice:  Undefined variable: udc in /home/kseducat/public_html/webroot/test.php on line 57
+[16-Jul-2017 02:10:22 Asia/Kolkata] PHP Warning:  curl_errno(): 3 is not a valid cURL handle resource in /home/kseducat/public_html/webroot/test.php on line 103
+[16-Jul-2017 02:10:22 Asia/Kolkata] PHP Warning:  curl_exec(): 3 is not a valid cURL handle resource in /home/kseducat/public_html/webroot/test.php on line 109
+[16-Jul-2017 02:10:22 Asia/Kolkata] PHP Warning:  curl_close(): 3 is not a valid cURL handle resource in /home/kseducat/public_html/webroot/test.php on line 111
+[16-Jul-2017 02:23:11 Asia/Kolkata] PHP Notice:  Undefined variable: udc in /home/kseducat/public_html/webroot/test.php on line 57
+[16-Jul-2017 02:23:11 Asia/Kolkata] PHP Warning:  curl_errno(): 3 is not a valid cURL handle resource in /home/kseducat/public_html/webroot/test.php on line 103
+[16-Jul-2017 02:23:11 Asia/Kolkata] PHP Warning:  curl_exec(): 3 is not a valid cURL handle resource in /home/kseducat/public_html/webroot/test.php on line 109
+[16-Jul-2017 02:23:11 Asia/Kolkata] PHP Warning:  curl_close(): 3 is not a valid cURL handle resource in /home/kseducat/public_html/webroot/test.php on line 111
+[22-Jul-2017 05:19:36 EST] PHP Fatal error:  Call to a member function execute() on boolean in /home/kseducat/public_html/src/Controller/ProductsController.php on line 498
+[22-Jul-2017 05:20:10 EST] PHP Fatal error:  Call to a member function query() on boolean in /home/kseducat/public_html/src/Controller/ProductsController.php on line 498
+[22-Jul-2017 05:21:27 EST] PHP Fatal error:  Call to a member function query() on boolean in /home/kseducat/public_html/src/Controller/ProductsController.php on line 498
+[22-Jul-2017 05:21:53 EST] PHP Fatal error:  Call to undefined method App\Controller\ProductsController::query() in /home/kseducat/public_html/src/Controller/ProductsController.php on line 498
+[22-Jul-2017 05:22:13 EST] PHP Fatal error:  Call to undefined method App\Controller\ProductsController::execute() in /home/kseducat/public_html/src/Controller/ProductsController.php on line 498
+[22-Jul-2017 05:48:01 EST] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' in /home/kseducat/public_html/src/Controller/ProductsController.php on line 522
+[22-Jul-2017 05:48:50 EST] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' in /home/kseducat/public_html/src/Controller/ProductsController.php on line 522
+[22-Jul-2017 05:48:55 EST] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' in /home/kseducat/public_html/src/Controller/ProductsController.php on line 522
+[22-Jul-2017 05:49:17 EST] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' in /home/kseducat/public_html/src/Controller/ProductsController.php on line 522
+[22-Jul-2017 05:58:24 EST] PHP Fatal error:  Call to a member function newEntity() on boolean in /home/kseducat/public_html/src/Controller/ProductsController.php on line 516
+[22-Jul-2017 05:58:55 EST] PHP Fatal error:  Call to a member function newEntity() on boolean in /home/kseducat/public_html/src/Controller/ProductsController.php on line 516
+[22-Jul-2017 13:36:49 EST] PHP Fatal error:  Class 'App\Controller\Admin\ConnectionManager' not found in /home/kseducat/public_html/src/Controller/Admin/GlobalParametersController.php on line 43
+[22-Jul-2017 13:36:53 EST] PHP Fatal error:  Class 'App\Controller\Admin\ConnectionManager' not found in /home/kseducat/public_html/src/Controller/Admin/GlobalParametersController.php on line 43
+[22-Jul-2017 13:37:27 EST] PHP Fatal error:  Class 'App\Controller\Admin\ConnectionManager' not found in /home/kseducat/public_html/src/Controller/Admin/GlobalParametersController.php on line 43
+[22-Jul-2017 13:41:12 EST] PHP Fatal error:  Class 'App\Controller\Admin\ConnectionManager' not found in /home/kseducat/public_html/src/Controller/Admin/GlobalParametersController.php on line 43
+[23-Jul-2017 01:04:35 EST] PHP Fatal error:  Call to a member function find() on boolean in /home/kseducat/public_html/src/Controller/ProductsController.php on line 465
+[23-Jul-2017 01:05:15 EST] PHP Fatal error:  Call to a member function find() on boolean in /home/kseducat/public_html/src/Controller/ProductsController.php on line 465
+[23-Jul-2017 01:05:49 EST] PHP Fatal error:  Call to a member function find() on boolean in /home/kseducat/public_html/src/Controller/ProductsController.php on line 465
+[23-Jul-2017 01:06:38 EST] PHP Fatal error:  Call to a member function find() on boolean in /home/kseducat/public_html/src/Controller/ProductsController.php on line 465
+[23-Jul-2017 01:06:38 EST] PHP Fatal error:  Call to a member function find() on boolean in /home/kseducat/public_html/src/Controller/ProductsController.php on line 465
+[26-Jul-2017 13:30:49 EST] PHP Fatal error:  Call to undefined function Quizs() in /home/kseducat/public_html/vendor/cakephp/cakephp/src/ORM/Association.php on line 539
+[26-Jul-2017 13:31:24 EST] PHP Fatal error:  Call to undefined function Quizs() in /home/kseducat/public_html/vendor/cakephp/cakephp/src/ORM/Association.php on line 539
+[26-Jul-2017 14:29:48 EST] PHP Parse error:  syntax error, unexpected '?>', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/kseducat/public_html/src/Template/Products/result.ctp on line 60
+[26-Jul-2017 14:29:51 EST] PHP Parse error:  syntax error, unexpected '?>', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/kseducat/public_html/src/Template/Products/result.ctp on line 60
+[26-Jul-2017 14:30:19 EST] PHP Parse error:  syntax error, unexpected '?>', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/kseducat/public_html/src/Template/Products/result.ctp on line 60
+[26-Jul-2017 14:30:48 EST] PHP Parse error:  syntax error, unexpected '?>', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/kseducat/public_html/src/Template/Products/result.ctp on line 60
+[26-Jul-2017 14:30:48 EST] PHP Parse error:  syntax error, unexpected '?>', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/kseducat/public_html/src/Template/Products/result.ctp on line 60
+[26-Jul-2017 14:56:48 EST] PHP Parse error:  syntax error, unexpected '}' in /home/kseducat/public_html/src/Controller/ProductsController.php on line 215
+[26-Jul-2017 14:56:53 EST] PHP Parse error:  syntax error, unexpected '}' in /home/kseducat/public_html/src/Controller/ProductsController.php on line 215
+[26-Jul-2017 14:58:33 EST] PHP Parse error:  syntax error, unexpected '}' in /home/kseducat/public_html/src/Controller/ProductsController.php on line 215
+[26-Jul-2017 14:58:36 EST] PHP Parse error:  syntax error, unexpected '}' in /home/kseducat/public_html/src/Controller/ProductsController.php on line 215
+[26-Jul-2017 14:58:40 EST] PHP Parse error:  syntax error, unexpected '}' in /home/kseducat/public_html/src/Controller/ProductsController.php on line 215
+[26-Jul-2017 14:58:51 EST] PHP Parse error:  syntax error, unexpected '}' in /home/kseducat/public_html/src/Controller/ProductsController.php on line 215
+[26-Jul-2017 14:58:52 EST] PHP Parse error:  syntax error, unexpected '}' in /home/kseducat/public_html/src/Controller/ProductsController.php on line 215
+[26-Jul-2017 15:46:50 EST] PHP Parse error:  syntax error, unexpected '}' in /home/kseducat/public_html/src/Controller/ProductsController.php on line 551
+[26-Jul-2017 15:46:52 EST] PHP Parse error:  syntax error, unexpected '}' in /home/kseducat/public_html/src/Controller/ProductsController.php on line 551
+[26-Jul-2017 15:47:00 EST] PHP Parse error:  syntax error, unexpected '}' in /home/kseducat/public_html/src/Controller/ProductsController.php on line 551
+[26-Jul-2017 16:02:25 EST] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/kseducat/public_html/src/Controller/UsersController.php on line 376
+[26-Jul-2017 16:02:29 EST] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/kseducat/public_html/src/Controller/UsersController.php on line 376
+[26-Jul-2017 16:02:40 EST] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/kseducat/public_html/src/Controller/UsersController.php on line 376
+[26-Jul-2017 16:03:39 EST] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/kseducat/public_html/src/Controller/UsersController.php on line 377
+[26-Jul-2017 16:04:07 EST] PHP Fatal error:  Unsupported operand types in /home/kseducat/public_html/vendor/cakephp/cakephp/src/ORM/EagerLoader.php on line 312
+[26-Jul-2017 16:06:43 EST] PHP Fatal error:  Unsupported operand types in /home/kseducat/public_html/vendor/cakephp/cakephp/src/ORM/EagerLoader.php on line 312
+[26-Jul-2017 16:26:07 EST] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/kseducat/public_html/src/Controller/UsersController.php on line 382
+[26-Jul-2017 16:26:09 EST] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/kseducat/public_html/src/Controller/UsersController.php on line 382
+[26-Jul-2017 16:38:22 EST] PHP Fatal error:  Call to a member function find() on boolean in /home/kseducat/public_html/src/Controller/ProductsController.php on line 532
+[26-Jul-2017 16:45:11 EST] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/kseducat/public_html/src/Controller/ProductsController.php on line 586
+[26-Jul-2017 16:45:14 EST] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/kseducat/public_html/src/Controller/ProductsController.php on line 586
+[26-Jul-2017 16:58:59 EST] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/kseducat/public_html/src/Controller/ProductsController.php on line 584
+[26-Jul-2017 16:59:02 EST] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/kseducat/public_html/src/Controller/ProductsController.php on line 584
+[26-Jul-2017 17:09:49 EST] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/kseducat/public_html/src/Controller/ProductsController.php on line 30
+[26-Jul-2017 17:09:52 EST] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/kseducat/public_html/src/Controller/ProductsController.php on line 30
+[26-Jul-2017 17:10:07 EST] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/kseducat/public_html/src/Controller/ProductsController.php on line 30
+[31-Jul-2017 13:34:51 EST] PHP Parse error:  syntax error, unexpected '}' in /home/kseducat/public_html/src/Template/Users/dashboard.ctp on line 48
+[31-Jul-2017 13:40:13 EST] PHP Parse error:  syntax error, unexpected '}' in /home/kseducat/public_html/src/Template/Users/dashboard.ctp on line 48
+[31-Jul-2017 13:40:20 EST] PHP Parse error:  syntax error, unexpected '}' in /home/kseducat/public_html/src/Template/Users/dashboard.ctp on line 48
+[31-Jul-2017 13:41:07 EST] PHP Parse error:  syntax error, unexpected '}' in /home/kseducat/public_html/src/Template/Users/dashboard.ctp on line 48
+[31-Jul-2017 13:41:18 EST] PHP Parse error:  syntax error, unexpected '}' in /home/kseducat/public_html/src/Template/Users/dashboard.ctp on line 48
+[31-Jul-2017 13:41:43 EST] PHP Parse error:  syntax error, unexpected '}' in /home/kseducat/public_html/src/Template/Users/dashboard.ctp on line 48
+[01-Aug-2017 00:46:18 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ''adminPageLimit'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/kseducat/public_html/config/app.php on line 53
+[01-Aug-2017 00:46:20 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ''adminPageLimit'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/kseducat/public_html/config/app.php on line 53
+[01-Aug-2017 00:46:22 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ''adminPageLimit'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/kseducat/public_html/config/app.php on line 53
+[31-Jul-2017 16:19:22 EST] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/kseducat/public_html/src/Template/Products/mockupteststart.ctp on line 52
+[31-Jul-2017 16:19:27 EST] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/kseducat/public_html/src/Template/Products/mockupteststart.ctp on line 52
+[02-Aug-2017 15:09:08 EST] PHP Fatal error:  Class 'App\Controller\Component\ImgComponent' not found in /home/kseducat/public_html/src/Controller/WebservicesController.php on line 322
+[02-Aug-2017 15:09:13 EST] PHP Fatal error:  Class 'App\Controller\Component\ImgComponent' not found in /home/kseducat/public_html/src/Controller/WebservicesController.php on line 322
+[02-Aug-2017 15:10:29 EST] PHP Fatal error:  Cannot use App\Controller\Component\ImgComponent as ImgComponent because the name is already in use in /home/kseducat/public_html/src/Controller/WebservicesController.php on line 14
+[02-Aug-2017 15:10:33 EST] PHP Fatal error:  Cannot use App\Controller\Component\ImgComponent as ImgComponent because the name is already in use in /home/kseducat/public_html/src/Controller/WebservicesController.php on line 14
+[02-Aug-2017 15:11:27 EST] PHP Fatal error:  Cannot use App\Controller\Component\ImgComponent as ImgComponent because the name is already in use in /home/kseducat/public_html/src/Controller/WebservicesController.php on line 14
+[02-Aug-2017 15:12:04 EST] PHP Fatal error:  Class 'App\Controller\Component\ImgComponent' not found in /home/kseducat/public_html/src/Controller/WebservicesController.php on line 323
+[02-Aug-2017 15:12:35 EST] PHP Fatal error:  Class 'App\Controller\Component\ImgComponent' not found in /home/kseducat/public_html/src/Controller/WebservicesController.php on line 323
+[11-Aug-2017 13:16:00 EST] PHP Fatal error:  Call to a member function find() on boolean in /home/kseducat/public_html/src/Controller/WebservicesController.php on line 377
+[11-Aug-2017 13:47:16 EST] PHP Parse error:  syntax error, unexpected ';' in /home/kseducat/public_html/src/Controller/WebservicesController.php on line 382
+[11-Aug-2017 13:47:19 EST] PHP Parse error:  syntax error, unexpected ';' in /home/kseducat/public_html/src/Controller/WebservicesController.php on line 382
+[11-Aug-2017 14:21:53 EST] PHP Parse error:  syntax error, unexpected ';' in /home/kseducat/public_html/src/Controller/WebservicesController.php on line 454
+[11-Aug-2017 14:21:57 EST] PHP Parse error:  syntax error, unexpected ';' in /home/kseducat/public_html/src/Controller/WebservicesController.php on line 454
+[11-Aug-2017 14:22:32 EST] PHP Parse error:  syntax error, unexpected ';' in /home/kseducat/public_html/src/Controller/WebservicesController.php on line 454
+[11-Aug-2017 14:24:58 EST] PHP Parse error:  syntax error, unexpected ';' in /home/kseducat/public_html/src/Controller/WebservicesController.php on line 454
+[11-Aug-2017 14:25:09 EST] PHP Parse error:  syntax error, unexpected ';' in /home/kseducat/public_html/src/Controller/WebservicesController.php on line 454
+[11-Aug-2017 14:25:34 EST] PHP Parse error:  syntax error, unexpected ';' in /home/kseducat/public_html/src/Controller/WebservicesController.php on line 454
+[11-Aug-2017 14:25:39 EST] PHP Parse error:  syntax error, unexpected ';' in /home/kseducat/public_html/src/Controller/WebservicesController.php on line 454
+[18-Aug-2017 02:19:41 EST] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/kseducat/public_html/src/Controller/WebservicesController.php on line 181
+[18-Aug-2017 02:20:00 EST] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/kseducat/public_html/src/Controller/WebservicesController.php on line 181
+[18-Aug-2017 02:20:05 EST] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/kseducat/public_html/src/Controller/WebservicesController.php on line 181
+[18-Aug-2017 02:20:05 EST] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/kseducat/public_html/src/Controller/WebservicesController.php on line 181
+[18-Aug-2017 03:00:52 EST] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/kseducat/public_html/src/Controller/WebservicesController.php on line 181
+[18-Aug-2017 03:00:58 EST] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/kseducat/public_html/src/Controller/WebservicesController.php on line 181
+[18-Aug-2017 03:57:24 EST] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/kseducat/public_html/src/Controller/WebservicesController.php on line 181
+[18-Aug-2017 03:57:42 EST] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/kseducat/public_html/src/Controller/WebservicesController.php on line 181
+[18-Aug-2017 03:57:51 EST] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/kseducat/public_html/src/Controller/WebservicesController.php on line 181
+[18-Aug-2017 04:16:35 EST] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/kseducat/public_html/src/Controller/WebservicesController.php on line 181
+[18-Aug-2017 07:35:31 EST] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/kseducat/public_html/src/Controller/WebservicesController.php on line 181
+[18-Aug-2017 13:11:40 EST] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/kseducat/public_html/src/Controller/WebservicesController.php on line 181
+[18-Aug-2017 13:12:15 EST] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/kseducat/public_html/src/Controller/WebservicesController.php on line 181
+[18-Aug-2017 15:07:54 EST] PHP Fatal error:  Call to a member function find() on boolean in /home/kseducat/public_html/src/Controller/WebservicesController.php on line 511
+[18-Aug-2017 15:07:56 EST] PHP Fatal error:  Call to a member function find() on boolean in /home/kseducat/public_html/src/Controller/WebservicesController.php on line 511

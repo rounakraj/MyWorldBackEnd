@@ -1,0 +1,3090 @@
+--------------------2017-08-09 01:59:07---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbook
+    [userId] => 1
+    [type] => 1
+)
+Array
+(
+    [action] => getEbook
+    [userId] => 1
+    [type] => 1
+)
+--------------------2017-08-09 02:01:45---------------------------->Array
+(
+)
+Array
+(
+    [action] => profile
+    [userId] => 6
+)
+Array
+(
+    [action] => profile
+    [userId] => 6
+)
+--------------------2017-08-10 02:01:32---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 
+    [action] => getEbook
+)
+Array
+(
+    [type] => 1
+    [userId] => 
+    [action] => getEbook
+)
+--------------------2017-08-10 02:02:51---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbook
+    [userId] => 1
+    [type] => 1
+)
+Array
+(
+    [action] => getEbook
+    [userId] => 1
+    [type] => 1
+)
+--------------------2017-08-10 02:03:31---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 1
+    [action] => getEbook
+)
+Array
+(
+    [type] => 1
+    [userId] => 1
+    [action] => getEbook
+)
+--------------------2017-08-10 02:12:21---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 1
+    [action] => getEbook
+)
+Array
+(
+    [type] => 1
+    [userId] => 1
+    [action] => getEbook
+)
+--------------------2017-08-10 02:36:34---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 1
+    [action] => getEbook
+)
+Array
+(
+    [type] => 1
+    [userId] => 1
+    [action] => getEbook
+)
+--------------------2017-08-10 02:36:47---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 1
+    [action] => getEbook
+)
+Array
+(
+    [type] => 1
+    [userId] => 1
+    [action] => getEbook
+)
+--------------------2017-08-10 02:36:52---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 1
+    [action] => getFaq
+)
+Array
+(
+    [userId] => 1
+    [action] => getFaq
+)
+--------------------2017-08-10 02:36:55---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 1
+    [action] => about
+)
+Array
+(
+    [userId] => 1
+    [action] => about
+)
+--------------------2017-08-11 08:20:05---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 1
+    [action] => getEbook
+)
+Array
+(
+    [type] => 1
+    [userId] => 1
+    [action] => getEbook
+)
+--------------------2017-08-11 08:20:10---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 1
+    [action] => getEbook
+)
+Array
+(
+    [type] => 1
+    [userId] => 1
+    [action] => getEbook
+)
+--------------------2017-08-11 08:20:16---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 1
+    [action] => getFaq
+)
+Array
+(
+    [userId] => 1
+    [action] => getFaq
+)
+--------------------2017-08-11 08:20:21---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 1
+    [action] => getEbook
+)
+Array
+(
+    [type] => 1
+    [userId] => 1
+    [action] => getEbook
+)
+--------------------2017-08-11 08:21:22---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 1
+    [action] => getEbook
+)
+Array
+(
+    [type] => 1
+    [userId] => 1
+    [action] => getEbook
+)
+--------------------2017-08-11 08:28:10---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 1
+    [action] => getEbook
+)
+Array
+(
+    [type] => 1
+    [userId] => 1
+    [action] => getEbook
+)
+--------------------2017-08-11 01:05:44---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbook
+    [userId] => 6
+    [type] => 2
+)
+--------------------2017-08-11 01:06:41---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbook
+    [userId] => 6
+    [type] => 2
+)
+--------------------2017-08-11 01:06:47---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbook
+    [userId] => 6
+    [type] => 1
+)
+--------------------2017-08-11 01:07:27---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbook
+    [userId] => 6
+    [type] => 1
+    [keyword] => Current Affairs
+)
+--------------------2017-08-11 01:07:31---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbook
+    [userId] => 6
+    [type] => 1
+    [keyword] => Current Affairs
+)
+--------------------2017-08-11 01:08:16---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbook
+    [userId] => 6
+    [type] => 1
+    [keyword] => Current Affairs
+)
+--------------------2017-08-11 01:08:52---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbook
+    [userId] => 6
+    [type] => 1
+    [keyword] => Current Affairs
+)
+--------------------2017-08-11 01:16:00---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 2
+    [type] => 1
+    [keyword] => Current Affairs
+)
+--------------------2017-08-11 01:16:27---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 2
+    [type] => 1
+    [keyword] => Current Affairs
+)
+--------------------2017-08-11 01:16:55---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 2
+    [type] => 1
+    [keyword] => Current Affairs
+)
+--------------------2017-08-11 01:18:18---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 2
+    [type] => 1
+    [keyword] => Current Affairs
+)
+--------------------2017-08-11 01:18:51---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 2
+    [type] => 1
+    [keyword] => Current Affairs
+)
+--------------------2017-08-11 01:19:51---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 2
+    [type] => 1
+    [keyword] => Current Affairs
+)
+--------------------2017-08-11 01:23:43---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 2
+    [type] => 1
+    [keyword] => Current Affairs
+)
+--------------------2017-08-11 01:24:18---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 2
+    [type] => 1
+    [keyword] => Current Affairs
+)
+--------------------2017-08-11 01:25:42---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 2
+    [type] => 1
+    [keyword] => Current Affairs
+)
+--------------------2017-08-11 01:25:44---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 2
+    [type] => 1
+    [keyword] => Current Affairs
+)
+--------------------2017-08-11 01:25:52---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 2
+    [type] => 1
+    [keyword] => Current Affairs
+)
+--------------------2017-08-11 01:31:28---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 2
+    [type] => 1
+    [keyword] => Current Affairs
+)
+--------------------2017-08-11 01:32:13---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 2
+    [type] => 1
+    [keyword] => Current Affairs
+)
+--------------------2017-08-11 01:33:07---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 2
+    [type] => 1
+    [keyword] => Current Affairs
+)
+--------------------2017-08-11 01:33:37---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 2
+    [type] => 1
+    [keyword] => Current Affairs
+)
+--------------------2017-08-11 01:33:53---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 2
+    [type] => 1
+    [keyword] => Current Affairs
+)
+--------------------2017-08-11 01:38:19---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 2
+    [type] => 1
+    [keyword] => Current Affairs
+)
+--------------------2017-08-11 01:38:25---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 2
+    [type] => 1
+    [keyword] => Current Affairs
+)
+--------------------2017-08-11 01:39:00---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 2
+    [type] => 1
+    [keyword] => Current Affairs
+)
+--------------------2017-08-11 01:40:41---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 2
+    [type] => 1
+    [keyword] => Current Affairs
+)
+--------------------2017-08-11 01:40:45---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 2
+    [type] => 1
+    [keyword] => Current Affairs
+)
+--------------------2017-08-11 01:41:06---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 2
+    [type] => 1
+    [keyword] => Current Affairs
+)
+--------------------2017-08-11 01:43:32---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 2
+    [type] => 1
+    [keyword] => Current Affairs
+)
+--------------------2017-08-11 01:43:44---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 2
+    [type] => 1
+    [keyword] => Current Affairs
+)
+--------------------2017-08-11 01:44:04---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 2
+    [type] => 1
+    [keyword] => Current Affairs
+)
+--------------------2017-08-11 01:44:29---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 2
+    [type] => 1
+    [keyword] => Current Affairs
+)
+--------------------2017-08-11 01:44:32---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 2
+    [type] => 1
+    [keyword] => Current Affairs
+)
+--------------------2017-08-11 01:44:58---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 2
+    [type] => 1
+    [keyword] => Current Affairs
+)
+--------------------2017-08-11 01:45:01---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 2
+    [type] => 1
+    [keyword] => Current Affairs
+)
+--------------------2017-08-11 01:45:41---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 2
+    [type] => 1
+    [keyword] => Current Affairs
+)
+--------------------2017-08-11 01:46:05---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 2
+    [type] => 1
+    [keyword] => Current Affairs
+)
+--------------------2017-08-11 01:46:24---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 2
+    [type] => 1
+    [keyword] => Current Affairs
+)
+--------------------2017-08-11 01:46:38---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 2
+    [type] => 1
+    [keyword] => Current Affairs
+)
+--------------------2017-08-11 01:47:33---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 2
+    [type] => 1
+    [keyword] => Current Affairs
+)
+--------------------2017-08-11 01:48:04---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 2
+    [type] => 1
+    [keyword] => Current Affairs
+)
+--------------------2017-08-11 01:48:34---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 2
+    [type] => 1
+    [keyword] => Current Affairs
+)
+--------------------2017-08-11 01:49:12---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 1
+    [type] => 1
+    [keyword] => Current Affairs
+)
+--------------------2017-08-11 01:50:16---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 1
+    [type] => 1
+    [keyword] => Current Affairs
+)
+--------------------2017-08-11 01:50:23---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 3
+    [type] => 1
+    [keyword] => Current Affairs
+)
+--------------------2017-08-11 01:51:08---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 3
+    [type] => 1
+    [keyword] => Current Affairs
+)
+--------------------2017-08-11 02:10:37---------------------------->Array
+(
+)
+Array
+(
+    [action] => OrderHistory
+    [userId] => 6
+    [type] => 1
+    [keyword] => Current Affairs
+)
+--------------------2017-08-11 02:13:19---------------------------->Array
+(
+)
+Array
+(
+    [action] => OrderHistory
+    [userId] => 6
+    [type] => 1
+)
+--------------------2017-08-11 02:14:26---------------------------->Array
+(
+)
+Array
+(
+    [action] => OrderHistory
+    [userId] => 6
+    [type] => 1
+)
+--------------------2017-08-11 02:15:04---------------------------->Array
+(
+)
+Array
+(
+    [action] => OrderHistory
+    [userId] => 6
+    [type] => 1
+)
+--------------------2017-08-11 02:15:25---------------------------->Array
+(
+)
+Array
+(
+    [action] => OrderHistory
+    [userId] => 6
+    [type] => 1
+)
+--------------------2017-08-11 02:15:54---------------------------->Array
+(
+)
+Array
+(
+    [action] => OrderHistory
+    [userId] => 6
+    [type] => 1
+)
+--------------------2017-08-11 02:16:07---------------------------->Array
+(
+)
+Array
+(
+    [action] => OrderHistory
+    [userId] => 6
+    [type] => 1
+)
+--------------------2017-08-11 02:16:14---------------------------->Array
+(
+)
+Array
+(
+    [action] => OrderHistory
+    [userId] => 6
+    [type] => 1
+)
+--------------------2017-08-11 02:16:51---------------------------->Array
+(
+)
+Array
+(
+    [action] => OrderHistory
+    [userId] => 6
+    [type] => 1
+)
+--------------------2017-08-11 02:16:55---------------------------->Array
+(
+)
+Array
+(
+    [action] => OrderHistory
+    [userId] => 6
+    [type] => 1
+)
+--------------------2017-08-11 02:18:01---------------------------->Array
+(
+)
+Array
+(
+    [action] => OrderHistory
+    [userId] => 6
+    [type] => 1
+)
+--------------------2017-08-11 02:22:57---------------------------->Array
+(
+)
+Array
+(
+    [action] => OrderHistory
+    [userId] => 6
+    [type] => 1
+)
+--------------------2017-08-11 02:23:58---------------------------->Array
+(
+)
+Array
+(
+    [action] => OrderHistory
+    [userId] => 6
+    [type] => 1
+)
+--------------------2017-08-11 02:26:22---------------------------->Array
+(
+)
+Array
+(
+    [action] => OrderHistory
+    [userId] => 6
+    [type] => 1
+)
+--------------------2017-08-11 02:27:16---------------------------->Array
+(
+)
+Array
+(
+    [action] => OrderHistory
+    [userId] => 6
+    [type] => 1
+)
+--------------------2017-08-11 02:28:28---------------------------->Array
+(
+)
+Array
+(
+    [action] => OrderHistory
+    [userId] => 6
+    [type] => 1
+)
+--------------------2017-08-11 02:28:32---------------------------->Array
+(
+)
+Array
+(
+    [action] => OrderHistory
+    [userId] => 6
+    [type] => 1
+)
+--------------------2017-08-11 02:28:38---------------------------->Array
+(
+)
+Array
+(
+    [action] => OrderHistory
+    [userId] => 6
+    [type] => 1
+)
+--------------------2017-08-11 02:32:16---------------------------->Array
+(
+)
+Array
+(
+    [action] => OrderHistory
+    [userId] => 6
+    [type] => 1
+)
+--------------------2017-08-11 02:33:36---------------------------->Array
+(
+)
+Array
+(
+    [action] => OrderHistory
+    [userId] => 6
+    [type] => 1
+)
+--------------------2017-08-11 02:33:56---------------------------->Array
+(
+)
+Array
+(
+    [action] => OrderHistory
+    [userId] => 6
+    [type] => 1
+)
+--------------------2017-08-11 02:33:59---------------------------->Array
+(
+)
+Array
+(
+    [action] => OrderHistory
+    [userId] => 6
+    [type] => 1
+)
+--------------------2017-08-11 02:40:05---------------------------->Array
+(
+)
+Array
+(
+    [action] => getMockup
+    [userId] => 6
+    [type] => 1
+)
+--------------------2017-08-11 02:42:38---------------------------->Array
+(
+)
+Array
+(
+    [action] => getMockup
+    [userId] => 6
+    [type] => 1
+)
+--------------------2017-08-11 02:43:11---------------------------->Array
+(
+)
+Array
+(
+    [action] => getMockup
+    [userId] => 6
+    [type] => 1
+)
+--------------------2017-08-11 02:45:29---------------------------->Array
+(
+)
+Array
+(
+    [action] => getMockup
+    [userId] => 6
+    [type] => 1
+)
+--------------------2017-08-11 02:45:35---------------------------->Array
+(
+)
+Array
+(
+    [action] => getMockup
+    [userId] => 6
+    [type] => 1
+)
+--------------------2017-08-11 02:49:08---------------------------->Array
+(
+)
+Array
+(
+    [action] => getMockup
+    [userId] => 6
+    [keyword] => dgfdsgsg
+)
+--------------------2017-08-12 06:47:34---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 1
+    [action] => getEbook
+)
+--------------------2017-08-12 06:47:47---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 1
+    [action] => getEbook
+)
+--------------------2017-08-12 06:47:58---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 1
+    [action] => getFaq
+)
+--------------------2017-08-12 06:48:03---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 1
+    [action] => about
+)
+--------------------2017-08-12 06:48:14---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 1
+    [action] => getEbook
+)
+--------------------2017-08-12 06:50:08---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 1
+    [action] => getEbook
+)
+--------------------2017-08-12 06:51:10---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 1
+    [action] => getEbook
+)
+--------------------2017-08-12 06:53:25---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 1
+    [action] => getEbook
+)
+--------------------2017-08-12 06:53:38---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 1
+    [action] => getEbook
+)
+--------------------2017-08-12 06:53:39---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 1
+    [action] => getEbook
+)
+--------------------2017-08-12 06:53:44---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 1
+    [action] => getEbook
+)
+--------------------2017-08-12 06:54:11---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 1
+    [action] => getEbook
+)
+--------------------2017-08-12 06:56:12---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 1
+    [action] => getEbook
+)
+--------------------2017-08-12 07:07:48---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 1
+    [action] => getEbook
+)
+--------------------2017-08-12 04:04:43---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 1
+    [action] => getEbook
+)
+--------------------2017-08-12 04:04:47---------------------------->Array
+(
+)
+Array
+(
+    [status] => accepted
+    [page] => 1
+    [userId] => 1
+    [action] => appointmentHistory
+)
+--------------------2017-08-12 04:04:47---------------------------->Array
+(
+)
+Array
+(
+    [status] => accepted
+    [page] => 1
+    [userId] => 1
+    [action] => appointmentHistory
+)
+--------------------2017-08-12 04:07:04---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 1
+    [action] => getEbook
+)
+--------------------2017-08-12 04:07:07---------------------------->Array
+(
+)
+Array
+(
+    [status] => accepted
+    [page] => 1
+    [userId] => 1
+    [action] => appointmentHistory
+)
+--------------------2017-08-12 04:07:08---------------------------->Array
+(
+)
+Array
+(
+    [status] => accepted
+    [page] => 1
+    [userId] => 1
+    [action] => appointmentHistory
+)
+--------------------2017-08-13 01:10:33---------------------------->Array
+(
+)
+Array
+(
+    [action] => MockupOrderHistory
+    [userId] => 6
+    [keyword] => dgfdsgsg
+)
+--------------------2017-08-13 01:14:34---------------------------->Array
+(
+)
+Array
+(
+    [action] => MockupOrderHistory
+    [userId] => 6
+    [keyword] => dgfdsgsg
+)
+--------------------2017-08-14 02:04:48---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 1
+    [action] => getEbook
+)
+--------------------2017-08-14 02:04:58---------------------------->Array
+(
+)
+Array
+(
+    [status] => accepted
+    [page] => 1
+    [userId] => 1
+    [action] => appointmentHistory
+)
+--------------------2017-08-14 02:04:58---------------------------->Array
+(
+)
+Array
+(
+    [status] => accepted
+    [page] => 1
+    [userId] => 1
+    [action] => appointmentHistory
+)
+--------------------2017-08-14 02:05:12---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 1
+    [action] => about
+)
+--------------------2017-08-14 02:09:28---------------------------->Array
+(
+)
+Array
+(
+    [lastName] => test
+    [firstName] => pradeep
+    [password] => 123456
+    [emailId] => p@gmail.com
+    [action] => register
+    [mobile] => 9876543210
+)
+--------------------2017-08-14 02:13:31---------------------------->Array
+(
+)
+Array
+(
+    [email] => p@gmail.com
+    [lastname] => test
+    [password] => 123456
+    [fullName] => pradeep
+    [action] => register
+    [mobile] => 9876543210
+)
+--------------------2017-08-14 02:13:37---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 53
+    [action] => getEbook
+)
+--------------------2017-08-14 02:15:26---------------------------->Array
+(
+)
+Array
+(
+    [email] => p@gmail.com
+    [password] => 123456
+    [action] => login
+)
+--------------------2017-08-14 02:15:27---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 53
+    [action] => getEbook
+)
+--------------------2017-08-14 02:16:52---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 53
+    [action] => getEbook
+)
+--------------------2017-08-14 02:17:09---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 53
+    [action] => about
+)
+--------------------2017-08-14 02:17:12---------------------------->Array
+(
+)
+Array
+(
+    [status] => accepted
+    [page] => 1
+    [userId] => 53
+    [action] => appointmentHistory
+)
+--------------------2017-08-14 02:17:12---------------------------->Array
+(
+)
+Array
+(
+    [status] => accepted
+    [page] => 1
+    [userId] => 53
+    [action] => appointmentHistory
+)
+--------------------2017-08-14 02:34:43---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 53
+    [action] => getEbook
+)
+--------------------2017-08-14 03:47:33---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 53
+    [action] => getEbook
+)
+--------------------2017-08-14 03:48:24---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 53
+    [action] => getEbook
+)
+--------------------2017-08-14 03:48:49---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 2
+)
+--------------------2017-08-14 03:49:14---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 53
+    [action] => EbookOrderHistory
+)
+--------------------2017-08-14 03:49:14---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 53
+    [action] => QuestionOrderHistory
+)
+--------------------2017-08-14 03:51:30---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 5
+)
+--------------------2017-08-14 04:34:31---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 53
+    [action] => getEbook
+)
+--------------------2017-08-14 04:34:50---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 2
+)
+--------------------2017-08-14 04:36:35---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 53
+    [action] => getEbook
+)
+--------------------2017-08-14 04:36:44---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 2
+)
+--------------------2017-08-14 04:39:06---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 53
+    [action] => getEbook
+)
+--------------------2017-08-14 04:39:20---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 5
+)
+--------------------2017-08-14 04:42:01---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 53
+    [action] => getEbook
+)
+--------------------2017-08-14 04:42:04---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 5
+)
+--------------------2017-08-14 04:42:21---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 5
+)
+--------------------2017-08-14 04:42:25---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 53
+    [action] => getEbook
+)
+--------------------2017-08-14 04:42:26---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 2
+)
+--------------------2017-08-14 04:42:32---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 53
+    [action] => getMockup
+)
+--------------------2017-08-14 04:42:39---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 3
+)
+--------------------2017-08-14 04:43:07---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 53
+    [action] => QuestionOrderHistory
+)
+--------------------2017-08-14 04:43:07---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 53
+    [action] => EbookOrderHistory
+)
+--------------------2017-08-14 04:45:44---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 53
+    [action] => about
+)
+--------------------2017-08-15 07:21:50---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 1
+    [action] => getEbook
+)
+--------------------2017-08-15 07:39:04---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 53
+    [action] => getEbook
+)
+--------------------2017-08-15 07:39:09---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 5
+)
+--------------------2017-08-15 07:39:44---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 53
+    [action] => getEbook
+)
+--------------------2017-08-15 07:39:46---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 53
+    [action] => getMockup
+)
+--------------------2017-08-15 07:46:39---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 53
+    [action] => getEbook
+)
+--------------------2017-08-15 07:46:52---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 53
+    [action] => getEbook
+)
+--------------------2017-08-15 07:46:54---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 2
+)
+--------------------2017-08-15 07:47:01---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 53
+    [action] => EbookOrderHistory
+)
+--------------------2017-08-15 07:47:01---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 53
+    [action] => QuestionOrderHistory
+)
+--------------------2017-08-15 07:49:00---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 53
+    [action] => about
+)
+--------------------2017-08-15 07:53:27---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 53
+    [action] => getEbook
+)
+--------------------2017-08-15 07:53:29---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 2
+)
+--------------------2017-08-15 07:54:04---------------------------->Array
+(
+)
+Array
+(
+    [email] => p@gmail.com
+    [password] => 123456
+    [action] => login
+)
+--------------------2017-08-15 07:54:05---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 53
+    [action] => getEbook
+)
+--------------------2017-08-15 07:54:09---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 53
+    [action] => about
+)
+--------------------2017-08-15 07:57:00---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 53
+    [action] => getEbook
+)
+--------------------2017-08-15 07:59:19---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 53
+    [action] => EbookOrderHistory
+)
+--------------------2017-08-15 07:59:19---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 53
+    [action] => QuestionOrderHistory
+)
+--------------------2017-08-15 07:59:33---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 53
+    [action] => getEbook
+)
+--------------------2017-08-15 07:59:35---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 2
+)
+--------------------2017-08-15 08:15:20---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 53
+    [action] => getEbook
+)
+--------------------2017-08-15 08:17:18---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 5
+)
+--------------------2017-08-15 08:23:34---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 53
+    [action] => getEbook
+)
+--------------------2017-08-15 08:23:37---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 2
+)
+--------------------2017-08-15 08:24:57---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 53
+    [action] => getEbook
+)
+--------------------2017-08-15 08:24:59---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 2
+)
+--------------------2017-08-15 08:26:15---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 5
+)
+--------------------2017-08-15 11:47:28---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 53
+    [action] => getEbook
+)
+--------------------2017-08-15 11:47:42---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 5
+)
+--------------------2017-08-15 11:48:56---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 53
+    [action] => getMockup
+)
+--------------------2017-08-15 11:49:01---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 3
+)
+--------------------2017-08-15 11:49:23---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 53
+    [action] => QuestionOrderHistory
+)
+--------------------2017-08-15 11:49:23---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 53
+    [action] => EbookOrderHistory
+)
+--------------------2017-08-15 12:11:23---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 53
+    [action] => getEbook
+)
+--------------------2017-08-15 12:11:53---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 53
+    [action] => getEbook
+)
+--------------------2017-08-15 12:12:27---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 53
+    [action] => getMockup
+)
+--------------------2017-08-15 12:14:12---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 53
+    [action] => getEbook
+)
+--------------------2017-08-15 12:23:36---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 53
+    [action] => getEbook
+)
+--------------------2017-08-15 12:23:43---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 53
+    [action] => getEbook
+)
+--------------------2017-08-15 12:24:01---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 5
+)
+--------------------2017-08-15 12:24:41---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 53
+    [action] => getEbook
+)
+--------------------2017-08-15 12:25:25---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 53
+    [action] => getEbook
+)
+--------------------2017-08-15 12:25:48---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 5
+)
+--------------------2017-08-15 12:26:06---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 53
+    [action] => getEbook
+)
+--------------------2017-08-15 12:26:09---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 53
+    [action] => getMockup
+)
+--------------------2017-08-15 12:26:17---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 3
+)
+--------------------2017-08-15 12:26:59---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 53
+    [action] => getEbook
+)
+--------------------2017-08-15 12:27:40---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 53
+    [action] => getMockup
+)
+--------------------2017-08-15 12:31:21---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 53
+    [action] => getEbook
+)
+--------------------2017-08-15 01:04:16---------------------------->Array
+(
+)
+Array
+(
+    [email] => p@gmail.com
+    [password] => 123456
+    [action] => login
+)
+--------------------2017-08-15 01:04:17---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 53
+    [action] => getEbook
+)
+--------------------2017-08-15 01:04:21---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 5
+)
+--------------------2017-08-15 01:04:32---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 53
+    [action] => getEbook
+)
+--------------------2017-08-15 01:04:34---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 53
+    [action] => getMockup
+)
+--------------------2017-08-15 01:04:41---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 53
+    [action] => getEbook
+)
+--------------------2017-08-15 01:52:02---------------------------->Array
+(
+)
+Array
+(
+    [email] => gautamkr.121@gmail.com
+    [password] => 123456
+    [action] => login
+)
+--------------------2017-08-15 01:52:43---------------------------->Array
+(
+)
+Array
+(
+    [email] => oyewebsdeveloper@gmail.cim
+    [password] => 123456
+    [action] => login
+)
+--------------------2017-08-15 01:53:34---------------------------->Array
+(
+)
+Array
+(
+    [email] => oyewebs@gmail.cim
+    [password] => 123456
+    [action] => login
+)
+--------------------2017-08-15 01:54:21---------------------------->Array
+(
+)
+Array
+(
+    [email] => oyewebs@gmail.com
+    [password] => 123456
+    [action] => login
+)
+--------------------2017-08-15 01:54:22---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 6
+    [action] => getEbook
+)
+--------------------2017-08-15 01:55:08---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 6
+    [action] => getEbook
+)
+--------------------2017-08-15 01:55:11---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 6
+    [action] => getEbook
+)
+--------------------2017-08-15 01:55:20---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 6
+    [action] => getMockup
+)
+--------------------2017-08-15 01:55:26---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 6
+    [action] => QuestionOrderHistory
+)
+--------------------2017-08-15 01:55:28---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 6
+    [action] => EbookOrderHistory
+)
+--------------------2017-08-15 01:55:39---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 6
+    [action] => getEbook
+)
+--------------------2017-08-15 01:55:41---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 2
+)
+--------------------2017-08-15 01:58:02---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbook
+    [userId] => 6
+    [keyword] => dgfdsgsg
+)
+--------------------2017-08-15 01:58:11---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbook
+    [userId] => 6
+)
+--------------------2017-08-15 01:59:25---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 6
+    [action] => getEbook
+)
+--------------------2017-08-15 01:59:36---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 6
+    [action] => QuestionOrderHistory
+)
+--------------------2017-08-15 01:59:36---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 6
+    [action] => EbookOrderHistory
+)
+--------------------2017-08-15 02:01:52---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 6
+    [action] => getMockup
+)
+--------------------2017-08-15 02:01:53---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 3
+)
+--------------------2017-08-15 02:01:59---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 6
+    [action] => getEbook
+)
+--------------------2017-08-15 02:02:00---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 2
+)
+--------------------2017-08-15 02:05:28---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 6
+    [action] => getEbook
+)
+--------------------2017-08-15 02:05:44---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 
+    [action] => getEbook
+)
+--------------------2017-08-15 02:05:48---------------------------->Array
+(
+)
+Array
+(
+    [email] => gautamkr.121@gmail.com
+    [action] => forgetpassword
+)
+--------------------2017-08-15 02:07:49---------------------------->Array
+(
+)
+Array
+(
+    [address] => 
+    [firstName] => Gautam
+    [password] => 
+    [country] => 
+    [emailId] => gautamkr.121@gmail.com
+    [dob] => 01/01/1990
+    [action] => socialLoginAction
+    [city] => 
+    [lastName] => Suri
+    [state] => 
+    [userSocialId] => 1589264804466741
+)
+--------------------2017-08-15 02:57:43---------------------------->Array
+(
+)
+Array
+(
+    [address] => 
+    [firstName] => Ajay
+    [password] => 
+    [country] => 
+    [emailId] => ajayajeet.101@gmail.com
+    [dob] => 01/01/1990
+    [action] => socialLoginAction
+    [city] => 
+    [lastName] => Sahu
+    [state] => 
+    [userSocialId] => 1360383940745027
+)
+--------------------2017-08-15 02:58:08---------------------------->Array
+(
+)
+Array
+(
+    [email] => ajayajeet.101@gmail.com
+    [lastname] => sahu
+    [password] => ajaysahu
+    [fullName] => ajay
+    [action] => register
+    [mobile] => 123456789
+)
+--------------------2017-08-15 02:59:45---------------------------->Array
+(
+)
+Array
+(
+    [email] => murari@gmail.com
+    [lastname] => bxbdhx
+    [password] => 123456
+    [fullName] => aajagu
+    [action] => register
+    [mobile] => 1236589
+)
+--------------------2017-08-15 02:59:51---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 54
+    [action] => getEbook
+)
+--------------------2017-08-15 03:00:07---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 2
+)
+--------------------2017-08-15 03:00:34---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 5
+)
+--------------------2017-08-15 03:00:37---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 54
+    [action] => getMockup
+)
+--------------------2017-08-15 03:00:41---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 3
+)
+--------------------2017-08-15 03:00:52---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 54
+    [action] => getEbook
+)
+--------------------2017-08-15 03:00:54---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 5
+)
+--------------------2017-08-15 03:00:59---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 54
+    [action] => getEbook
+)
+--------------------2017-08-15 03:01:05---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 2
+)
+--------------------2017-08-15 03:01:11---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 54
+    [action] => QuestionOrderHistory
+)
+--------------------2017-08-15 03:01:11---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 54
+    [action] => EbookOrderHistory
+)
+--------------------2017-08-15 03:01:33---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 54
+    [action] => QuestionOrderHistory
+)
+--------------------2017-08-15 03:01:33---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 54
+    [action] => EbookOrderHistory
+)
+--------------------2017-08-15 03:01:33---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 54
+    [action] => QuestionOrderHistory
+)
+--------------------2017-08-15 03:01:33---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 54
+    [action] => EbookOrderHistory
+)
+--------------------2017-08-16 04:51:17---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 54
+    [action] => getEbook
+)
+--------------------2017-08-16 04:51:20---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 54
+    [action] => getEbook
+)
+--------------------2017-08-16 04:51:32---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 54
+    [action] => getEbook
+)
+--------------------2017-08-16 04:51:48---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 54
+    [action] => EbookOrderHistory
+)
+--------------------2017-08-16 04:51:48---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 54
+    [action] => QuestionOrderHistory
+)
+--------------------2017-08-16 04:51:51---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 54
+    [action] => getEbook
+)
+--------------------2017-08-16 04:51:53---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 54
+    [action] => QuestionOrderHistory
+)
+--------------------2017-08-16 04:51:53---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 54
+    [action] => EbookOrderHistory
+)
+--------------------2017-08-16 04:51:55---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 54
+    [action] => QuestionOrderHistory
+)
+--------------------2017-08-16 04:51:55---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 54
+    [action] => EbookOrderHistory
+)
+--------------------2017-08-16 07:34:30---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 54
+    [action] => getEbook
+)
+--------------------2017-08-16 07:34:32---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 54
+    [action] => getEbook
+)
+--------------------2017-08-16 07:34:35---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 54
+    [action] => getEbook
+)
+--------------------2017-08-16 07:34:37---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 54
+    [action] => QuestionOrderHistory
+)
+--------------------2017-08-16 07:34:37---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 54
+    [action] => EbookOrderHistory
+)
+--------------------2017-08-16 07:34:48---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 54
+    [action] => getEbook
+)
+--------------------2017-08-16 07:34:57---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 54
+    [action] => QuestionOrderHistory
+)
+--------------------2017-08-16 07:34:57---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 54
+    [action] => EbookOrderHistory
+)
+--------------------2017-08-16 07:34:57---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 54
+    [action] => getMockup
+)
+--------------------2017-08-16 07:34:58---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 54
+    [action] => QuestionOrderHistory
+)
+--------------------2017-08-16 07:34:59---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 54
+    [action] => EbookOrderHistory
+)
+--------------------2017-08-16 07:35:00---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 54
+    [action] => EbookOrderHistory
+)
+--------------------2017-08-16 07:35:00---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 54
+    [action] => QuestionOrderHistory
+)
+--------------------2017-08-16 07:35:07---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 54
+    [action] => getEbook
+)
+--------------------2017-08-16 08:04:33---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 53
+    [action] => getEbook
+)
+--------------------2017-08-16 08:04:36---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 53
+    [action] => QuestionOrderHistory
+)
+--------------------2017-08-16 08:04:36---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 53
+    [action] => EbookOrderHistory
+)
+--------------------2017-08-16 08:04:41---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 53
+    [action] => getEbook
+)
+--------------------2017-08-16 08:04:46---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 53
+    [action] => getEbook
+)
+--------------------2017-08-16 08:04:48---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 53
+    [action] => getEbook
+)
+--------------------2017-08-16 08:04:51---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 53
+    [action] => getMockup
+)
+--------------------2017-08-16 08:04:53---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 53
+    [action] => QuestionOrderHistory
+)
+--------------------2017-08-16 08:04:54---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 53
+    [action] => EbookOrderHistory
+)
+--------------------2017-08-16 08:05:30---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 53
+    [action] => getEbook
+)
+--------------------2017-08-16 08:05:32---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 53
+    [action] => QuestionOrderHistory
+)
+--------------------2017-08-16 08:05:32---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 53
+    [action] => EbookOrderHistory
+)
+--------------------2017-08-16 08:05:42---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 53
+    [action] => EbookOrderHistory
+)
+--------------------2017-08-16 08:05:42---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 53
+    [action] => QuestionOrderHistory
+)
+--------------------2017-08-16 08:06:39---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 54
+    [action] => getEbook
+)
+--------------------2017-08-16 08:06:43---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 54
+    [action] => QuestionOrderHistory
+)
+--------------------2017-08-16 08:06:43---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 54
+    [action] => EbookOrderHistory
+)
+--------------------2017-08-16 08:06:48---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 54
+    [action] => getMockup
+)
+--------------------2017-08-16 08:06:55---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 54
+    [action] => EbookOrderHistory
+)
+--------------------2017-08-16 08:06:55---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 54
+    [action] => QuestionOrderHistory
+)
+--------------------2017-08-16 08:07:01---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 54
+    [action] => QuestionOrderHistory
+)
+--------------------2017-08-16 08:07:01---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 54
+    [action] => EbookOrderHistory
+)
+--------------------2017-08-16 08:07:02---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 54
+    [action] => EbookOrderHistory
+)
+--------------------2017-08-16 08:07:02---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 54
+    [action] => QuestionOrderHistory
+)
+--------------------2017-08-16 08:07:08---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 54
+    [action] => getEbook
+)
+--------------------2017-08-16 08:07:10---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 54
+    [action] => QuestionOrderHistory
+)
+--------------------2017-08-16 08:07:12---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 54
+    [action] => EbookOrderHistory
+)
+--------------------2017-08-16 08:07:15---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 54
+    [action] => getEbook
+)
+--------------------2017-08-16 08:07:16---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 54
+    [action] => getMockup
+)
+--------------------2017-08-16 08:07:18---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 54
+    [action] => getEbook
+)
+--------------------2017-08-16 08:07:19---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 2
+)
+--------------------2017-08-16 08:07:24---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 54
+    [action] => EbookOrderHistory
+)
+--------------------2017-08-16 08:07:26---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 54
+    [action] => QuestionOrderHistory
+)
+--------------------2017-08-16 08:07:27---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 54
+    [action] => EbookOrderHistory
+)
+--------------------2017-08-16 08:07:27---------------------------->Array
+(
+)
+Array
+(
+    [userId] => 54
+    [action] => QuestionOrderHistory
+)
+--------------------2017-08-16 11:27:15---------------------------->Array
+(
+)
+Array
+(
+    [address] => 
+    [firstName] => Tarun
+    [password] => 
+    [country] => 
+    [emailId] => tarun04kumar@gmail.com
+    [dob] => 01/01/1990
+    [action] => socialLoginAction
+    [city] => 
+    [lastName] => Singh
+    [state] => 
+    [userSocialId] => 1811857402187768
+)
+--------------------2017-08-18 01:13:37---------------------------->Array
+(
+)
+Array
+(
+    [action] => profile
+    [userId] => 51
+)
+--------------------2017-08-18 01:14:59---------------------------->Array
+(
+)
+Array
+(
+    [action] => profile
+    [userId] => 51
+)
+--------------------2017-08-18 01:15:32---------------------------->Array
+(
+)
+Array
+(
+    [action] => profile
+    [userId] => 51
+)
+--------------------2017-08-18 02:41:39---------------------------->Array
+(
+)
+Array
+(
+    [action] => mokuckupDetails
+    [userId] => 21
+)
+--------------------2017-08-18 02:42:05---------------------------->Array
+(
+)
+Array
+(
+    [action] => mokuckupDetails
+    [answerId] => 21
+)
+--------------------2017-08-18 02:44:13---------------------------->Array
+(
+)
+Array
+(
+    [action] => mokuckupDetails
+    [answerId] => 21
+)
+--------------------2017-08-18 02:46:46---------------------------->Array
+(
+)
+Array
+(
+    [action] => mokuckupDetails
+    [answerId] => 21
+)
+--------------------2017-08-18 02:47:42---------------------------->Array
+(
+)
+Array
+(
+    [action] => mokuckupDetails
+    [answerId] => 21
+)
+--------------------2017-08-18 02:49:21---------------------------->Array
+(
+)
+Array
+(
+    [action] => mokuckupDetails
+    [answerId] => 21
+)
+--------------------2017-08-18 02:49:25---------------------------->Array
+(
+)
+Array
+(
+    [action] => mokuckupDetails
+    [answerId] => 21
+)
+--------------------2017-08-18 02:49:54---------------------------->Array
+(
+)
+Array
+(
+    [action] => mokuckupDetails
+    [answerId] => 21
+)
+--------------------2017-08-18 02:50:15---------------------------->Array
+(
+)
+Array
+(
+    [action] => mokuckupDetails
+    [answerId] => 21
+)
+--------------------2017-08-18 02:51:09---------------------------->Array
+(
+)
+Array
+(
+    [action] => mokuckupDetails
+    [answerId] => 21
+)
+--------------------2017-08-18 02:51:17---------------------------->Array
+(
+)
+Array
+(
+    [action] => mokuckupDetails
+    [answerId] => 21
+)
+--------------------2017-08-18 02:51:59---------------------------->Array
+(
+)
+Array
+(
+    [action] => mokuckupDetails
+    [answerId] => 21
+)
+--------------------2017-08-18 02:52:39---------------------------->Array
+(
+)
+Array
+(
+    [action] => mokuckupDetails
+    [answerId] => 21
+)
+--------------------2017-08-18 02:56:46---------------------------->Array
+(
+)
+Array
+(
+    [action] => mokuckupDetails
+    [answerId] => 21
+)
+--------------------2017-08-18 02:59:33---------------------------->Array
+(
+)
+Array
+(
+    [action] => MockupOrderHistory
+    [userId] => 52
+)
+--------------------2017-08-18 03:04:17---------------------------->Array
+(
+)
+Array
+(
+    [action] => MockupOrderHistory
+    [userId] => 52
+)
+--------------------2017-08-18 03:04:23---------------------------->Array
+(
+)
+Array
+(
+    [action] => MockupOrderHistory
+    [userId] => 52
+)
+--------------------2017-08-18 03:05:13---------------------------->Array
+(
+)
+Array
+(
+    [action] => MockupOrderHistory
+    [userId] => 52
+)
+--------------------2017-08-18 03:07:54---------------------------->Array
+(
+)
+Array
+(
+    [action] => MockupOrderHistory
+    [userId] => 52
+)
+--------------------2017-08-18 03:07:56---------------------------->Array
+(
+)
+Array
+(
+    [action] => MockupOrderHistory
+    [userId] => 52
+)
+--------------------2017-08-18 03:08:14---------------------------->Array
+(
+)
+Array
+(
+    [action] => MockupOrderHistory
+    [userId] => 52
+)
+--------------------2017-08-18 03:08:41---------------------------->Array
+(
+)
+Array
+(
+    [action] => MockupOrderHistory
+    [userId] => 52
+)
+--------------------2017-08-19 12:11:25---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 53
+    [action] => getEbook
+)
+--------------------2017-08-19 12:11:32---------------------------->Array
+(
+)
+Array
+(
+    [type] => 1
+    [userId] => 53
+    [action] => getEbook
+)
+--------------------2017-08-19 12:11:37---------------------------->Array
+(
+)
+Array
+(
+    [action] => getEbookDetails
+    [prodId] => 6
+)
+--------------------2017-08-19 02:17:20---------------------------->Array
+(
+)
+Array
+(
+)
+--------------------2017-08-19 03:22:15---------------------------->Array
+(
+)
+Array
+(
+    [action] => bookPayment
+    [userId] => 52
+    [prodId] => 2
+    [paymentResponse] => Free
+)
+--------------------2017-08-19 03:24:25---------------------------->Array
+(
+)
+Array
+(
+    [action] => quizPayment
+    [userId] => 52
+    [quizId] => 3
+    [paymentResponse] => Free
+)
